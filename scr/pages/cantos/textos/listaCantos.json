@@ -1,0 +1,409 @@
+{
+     "canto1":{
+        "nombre": "Panes de san Sixto",
+        "estrofa1": [
+            "Un día que faltó el pan, \n",
+            "en el convento de San Sixto \n",
+            "tu pediste fray Domingo \n",
+            "que hubiera pan para tus hijos \n",
+            "y de pronto el refectorio \n",
+            "fue testigo de un milagro \n"
+        ],
+        "coro1":[
+            "/Tus frailes vieron dos ángeles \n",
+            "sirviendo el pan que pediste/. \n"
+        ],
+        "estrofa2":[
+            "El amor se hizo pan, \n",
+            "El amor se hizo vino \n",
+            "El amor se hizo fuego \n",
+            "El amor se hizo amigo \n",
+            "El amor fue un milagro \n",
+            "En tu mesa fray Domingo \n"
+        ],
+        "coro2":[
+            "/Visitaron los ángeles \n",
+            "A tus frailes en San Sixto/. \n"
+        ]
+    },
+
+    "canto2":{
+        "nombre": "Domingo de Guzmán",
+        "estrofa1": [
+            "Recorriendo los caminos, iba el gran predicador \n",
+            "Llevando a todos los hombres \n",
+            "Su testimonio de amor. \n",
+            "Sobre su frente una estrella \n",
+            "En su voz fuego de Dios. \n",
+            "A unos los convertía, por otros pedía perdón. \n"
+        ],
+        "coro1":[
+            "/Domingo, Domingo, Domingo de Guzmán/ \n"
+        ],
+        "estrofa2":[
+            "Por los pobres da sus libros \n",
+            "y por los hombres lloró. \n",
+            "Pide por los pecadores \n",
+            "y de noche ruega a Dios. \n",
+            "A sus frailes les enseña \n",
+            "la misión de predicar \n",
+            "Y luego ha de dispersarlos, o el trigo se dañará. \n",
+            " \n",
+            "Su nombre se hizo llama \n",
+            "que la herejía venció; \n",
+            "Su fe incendió a los hombres \n",
+            "En la verdad y el amor. \n",
+            "Andaba por los caminos \n",
+            "con hábito blanco y bastón \n",
+            "y mientras recorre el mundo \n",
+            "habla con Dios y de Dios. \n",
+            " \n",
+            "Hoy recorremos sus sendas, \n",
+            "sus Hijos con su heredad, \n",
+            "canes con tea en los labios \n",
+            "predicando la Verdad; \n",
+            "seremos semilla fuerte \n",
+            "y nuevo germen de paz, \n",
+            "seguiremos tras las huellas \n",
+            "de Fray Domingo Guzmán. \n"
+        ]
+    },
+
+    "canto3":{
+        "nombre": "Predicador de la gracia",
+        "estrofa1": [
+            "Fuiste luz que a este mundo \n",
+            "por María nos llegó \n",
+            "y como ella engendraste \n",
+            "muchos hijos para Dios. \n",
+            "Tu misión fue la del Verbo \n",
+            "vida, camino, verdad \n",
+            "poner luz en las tinieblas \n",
+            "encender en caridad \n"
+        ],
+        "coro1":[
+            "/Predicador de la Gracia \n",
+            "tu gracia fue predicar \n",
+            "a los hombres la noticia \n",
+            "que Dios nos vino a salvar/\n"
+        ],
+        "estrofa2":[
+            "Tu hablaste con Dios siempre \n",
+            "o de Dios a los demás, \n",
+            "eran auroras tus días \n",
+            "de noches de intimidad. \n",
+            "Evangelio fue tu vida \n",
+            "tu carisma: la verdad \n",
+            "tu palabra, llama viva \n",
+            "que quemaba al alumbrar. \n"
+        ],
+        "estrofa3":[
+            "Tu herencia hoy sigue viva \n",
+            "palpitante tu ideal \n",
+            "contemplar al Dios viviente \n",
+            "y de lo contemplado dar. \n",
+            "Somos fruto de tu entrega \n",
+            "tu familia en comunión \n",
+            "y en el tiempo prolongamos \n",
+            "la gracia de tu misión. \n"
+        ]
+      },
+
+    "canto4":{
+        "nombre": "Fray Domingo de los Andes",
+        "estrofa1": [
+            "El mar caribe se llenó de luz, \n",
+            "El fuego de una estrella lo incendió, \n",
+            "/Las olas van inundando la arena \n",
+            "Con las huellas de un predicador/ \n"
+        ],
+        "coro1":[
+            "Domingo de América, \n",
+            "Domingo de mi tierra y mis montañas, \n",
+            "Fray Domingo de los Andes, \n",
+            "Fray Domingo de mi América, \n",
+            "Domingo del pacífico y la selva, \n",
+            "Fray Domingo de mi tierra, \n",
+            "Fray Domingo de mi América. \n"
+        ],
+        "estrofa2":[
+            "Comienza tu palabra en la justicia, \n",
+            "Se escucha allí en la isla la verdad, \n",
+            "/Desciende el fuego por el Amazonas, \n",
+            "Tus frailes pisan tierra tropical/ \n"
+        ],
+        "coro2":[
+            "Domingo de América, \n",
+            "Domingo de mi tierra y mis montañas, \n",
+            "Fray Domingo de los Andes, \n",
+            "Fray Domingo de mi América, \n",
+            "Domingo del pacífico y la selva, \n",
+            "Fray Domingo de mi tierra, \n",
+            "Fray Domingo de mi América. \n"
+        ],
+        "estrofa3":[
+            "El cóndor en su vuelo vio tus pasos \n",
+            "Fundando nuevos pueblos y llevando paz \n",
+            "/De blanco y negro van los misioneros \n",
+            "Llevando la palabra América/ \n"
+        ]
+    },
+
+    "canto5":{
+        "nombre": "La fuerza de la verdad",
+        "estrofa1": [
+            "Nos reúnes en tu altar, \n",
+            "compartiremos tu amor en vino y pan, \n",
+            "unidos como hermanos en un mismo ideal, \n",
+            "llevamos en nosotros la fuerza de la Verdad. \n",
+            " \n",
+            "Nos llamaste junto a ti, \n",
+            "nos consagraste para alabar tu amor, \n",
+            "ungiste nuestras manos para bendecir \n",
+            "y al predicar nos das el fuego, \n",
+            "la fuerza de la Verdad. \n"
+        ],
+        "coro1":[
+            "Mensajeros de la Palabra, pregoneros de paz, \n",
+            "testigos del Evangelio, fuerza de la Verdad. \n",
+            "Antorchas de un mundo nuevo, \n",
+            "fuego de la humanidad, \n",
+            "hermanos predicadores, fuerza de la Verdad. \n"
+        ],
+        "estrofa2":[
+            "La estrella es Domingo de Guzmán, \n",
+            "Jordán la juventud, el sol Tomás, \n",
+            "la paz es Catalina, y Rosa, flor de América, \n",
+            "nos une tu palabra, la Fuerza de la Verdad. \n",
+            " \n",
+            "Nos das en Martín la caridad \n",
+            "y en nuestra tierra la voz de Luis Bertrán, \n",
+            "Angélico el color y Juan Macías la humildad, \n",
+            "predicándole al mundo la fuerza de la Verdad. \n"
+        ],
+        "coro2":[
+            "Mensajeros de la Palabra, pregoneros de paz, \n",
+            "testigos del Evangelio, fuerza de la Verdad. \n",
+            "Antorchas de un mundo nuevo, \n",
+            "fuego de la humanidad, \n",
+            "hermanos predicadores, fuerza de la Verdad. \n"
+        ]
+    },
+
+    "canto6":{
+        "nombre": "Tu voz en América",
+        "estrofa1": [
+            "Tu voz cruzó por los mares y se hizo llama; \n",
+            "El cielo de nuestra tierra se iluminó. \n",
+            "Tu estrella llegó descalza a nuestras arenas, \n",
+            "Y América se incendió en el fuego de Dios \n"
+        ],
+        "coro1":[
+            "/Domingo, tu voz en América, \n",
+            "descubre la fuerza de la verdad, \n",
+            "Domingo, tu voz en América, \n",
+            "Es fuego de libertad/ \n"
+        ],
+        "estrofa2":[
+            "Antonio de Montesinos fue la voz del indio, \n",
+            "Bartolomé de las Casas el defensor, \n",
+            "En Lima tu palabra es el perfume de una Rosa, \n",
+            "Fr. Juan Macías, fray Martín y Fr. Luis Bertrán \n"
+        ],
+        "coro2":[
+            "/Domingo, tu voz en América, \n",
+            "descubre la fuerza de la verdad, \n",
+            "Domingo, tu voz en América, \n",
+            "Es fuego de libertad/. \n"
+        ],
+        "estrofa3":[
+            "Tu luz recorrió el inmenso azul del mar Caribe, \n",
+            "La esclavitud de nuestro pueblo te recibió. \n",
+            "Desnudos tus pies besaron tierra de los Andes, \n",
+            "Llevando sobre las montañas el nuevo sol. \n"
+        ],
+        "coro3":[
+            "/Domingo, tu voz en América, \n",
+            "descubre la fuerza de la verdad, \n",
+            "Domingo, tu voz en América, \n",
+            "Es fuego de libertad/. \n"
+        ]
+    },
+
+    "canto7":{
+        "nombre": "Domingo, milagro en mi",
+        "estrofa1": [
+            "Si debiera volver a comenzar te buscaría, \n",
+            "porque mi vida sin Ti no tendría razón de ser, \n",
+            "si debiera volver a comenzar serías mi guía, \n",
+            "porque contigo, Domingo, yo encuentro la Verdad.  \n"       
+        ],
+        "coro1":[
+            "Domingo, tu historia es camino hacia Dios. \n",
+            "Domingo, tu fuerza es palabra en mi voz. \n",
+            "Domingo, tu vida es milagro en todo mi ser. \n",
+            "Si tú vas conmigo, ¿qué puedo temer? \n"
+        ],
+        "estrofa2":[
+            "Hablar siempre con Dios o de Dios fue tu camino, \n",
+            "resplandecía en tu frente la estrella del amor. \n",
+            "Eres el Predicador de la Verdad, luz de la Iglesia. \n",
+            "Tú me enseñaste, Maestro Domingo, tu ideal. \n"
+        ],
+        "coro2":[
+            "Domingo, tu historia es camino hacia Dios… \n"
+        ],
+        "estrofa3":[
+            "Eres el Padre que a sus hijos enseña la obediencia, \n",
+            "y por herencia nos dejaste tu amor a la verdad. \n",
+            "Dejaste amor fraternal cimentado a tus hermanos, \n",
+            "para estudiar nos das el libro de la caridad. \n"
+        ],
+        "coro3":[
+            "Domingo, tu historia es camino hacia Dios… \n"
+        ],
+        "estrofa4":[
+            "Bebiste un libro en la fuente de la sabiduría, \n",
+            "tus manos fueron el prodigio que a tus hijos brindó el pan. \n",
+            "Tus frailes vieron brotar el milagro de la vida, \n",
+            "fue tu oración la que aun joven logró resucitar. \n"
+        ],
+        "coro4":[
+            "Domingo, tu historia es camino hacia Dios… \n"
+        ]
+    },
+
+    "canto8":{
+        "nombre": "Jubileo 800 años",
+        "estrofa1": [
+            "En Toulouse, hace ochocientos años, \n",
+            "en el convento de San Román, \n",
+            "una nueva voz comenzó a anunciar: \n",
+            "son tus hijos al predicar, \n",
+            "mensajeros de luz y verdad. \n"   
+        ],
+        "coro1":[
+            "Fray Domingo, todos tus hermanos \n",
+            "reunidos en fraternidad \n",
+            "proclamamos al mundo tu gran ideal: \n",
+            "Alabar, bendecir, predicar. \n"
+        ],
+        "estrofa2":[
+            "Ocho siglos te exaltan, Domingo, \n",
+            "con Jordán, Catalina y Tomás, \n",
+            "fray Bartolomé, Rosa y fray Martín, \n",
+            "Pedro, Alberto y Luis Beltrán, \n",
+            "mensajeros de luz y verdad. \n"
+        ],
+        "coro2":[
+            "Fray Domingo, todos tus hermanos \n",
+            "reunidos en fraternidad \n",
+            "proclamamos al mundo tu gran ideal: \n",
+            "Alabar, bendecir, predicar. \n"
+        ],
+        "estrofa3":[
+            "Ocho siglos, Domingo, contigo, \n",
+            "en estudio, oración y hermandad; \n",
+            "en justicia y paz, en fraternidad, \n",
+            "predicadores de la Verdad: \n",
+            "mensajeros de luz y de paz. \n"
+        ]
+    },
+
+    "canto9":{
+        "nombre": "Padre Santo Domningo",
+        "estrofa1": [
+            "Padre santo Domingo de Guzmán, Fuego de Dios, \n",
+            "Enseñaste a tus hijos la misión de la predicación. \n",
+            "Hoy tu fuego incendia al mundo, \n",
+            "Y tu estrella es la luz.  \n"
+        ],
+        "coro1":[
+            "/Mensajero de Dios, pregón de la Verdad \n",
+            "Tú llevas a los hombres la Palabra, \n",
+            "Hablando con Dios y de Dios predicador/ \n"
+        ],
+        "estrofa2":[
+            "Tú nos diste a beber Sabiduría \n",
+            "De tus fuentes de amor, \n",
+            "Mientras llamas a los pobres testimonio de amor. \n",
+            "Clamas tú por los pecadores, \n",
+            "Lloras por su perdón. \n"
+        ],
+        "coro2":[
+            "/Mensajero de Dios, pregón de la Verdad \n",
+            "Tú llevas a los hombres la Palabra, \n",
+            "Hablando con Dios y de Dios predicador/ \n"
+        ]
+    },
+
+    "canto10":{
+        "nombre": "Tú me enseñaste a amar la luz",
+        "coro1":[
+            "Oh, Oh Lumen, mi estrella mi luz. \n"
+        ],
+        "estrofa1": [
+            "Brilla en tus ojos el amor: \n",
+            "fuego que arde en un cristal; \n",
+            "luz de tu alma transparente que ilumina el corazón. \n",
+            "Tú me enseñaste a amar la luz \n",
+            "y el resplandor de tu mirar; \n",
+            "tus ojos encierran el cielo con su luz de eternidad. \n",
+            " \n",
+            "Pero una estrella se escapó \n",
+            "y de tus ojos fue a tu frente, \n",
+            "su luz encandiló mi vida, \n",
+            "quedé ciego y, sin pensarlo, \n",
+            "me fui tras su resplandor. \n",
+            " \n",
+            "Y por ti yo cambié el camino, \n",
+            "lo dejé todo por tu luz; \n",
+            "ahora tu estrella está conmigo \n",
+            "y llevo en mí tu luz, Domingo. \n",
+            "Me incendiaste, Fray Domingo de Guzmán. \n"
+        ],
+        "coro2":[
+            "Oh, Oh Lumen, mi estrella mi luz (Bis). \n"
+        ],
+        "estrofa2":[
+            "Predicador, en mi frente va tu estrella: \n",
+            "resplandor de libertad. \n",
+            "Tú iluminas hoy mi vida, \n",
+            "luz y fuego brotan de mis manos \n",
+            "para vencer la oscuridad. \n",
+            " \n",
+            "Y por ti yo cambié el camino… \n"
+        ],
+        "coro3":[
+            "Oh, Oh Lumen, mi estrella mi luz (Bis). \n"
+        ]
+    },
+
+    "canto11":{
+        "nombre": "Domingo, tu voz resuena",
+        "coro1":[
+            "/Domingo de Guzmán, tu voz resuena \n",
+            "con ecos de Evangelio de Buena nueva/. \n"
+        ],
+        "estrofa1": [
+            "Caleruega, tu cuna, vio nacer una estrella \n",
+            "que esclareció las sombras, que iluminó la tierra; \n",
+            "de Guzmán y de Aza nació una estirpe nueva \n",
+            "que por muchos caminos, que por muchos caminos \n",
+            "fue rompiendo fronteras. \n",
+            " \n",
+            "Predicador y Apóstol que vives y contemplas \n",
+            "la palabra de Dios y con fuerza la entregas; \n",
+            "palabra que es estudio, oración sementera \n",
+            "de un reino que es justicia, libertad y esperanza \n",
+            "que trae paz a la tierra. \n",
+            " \n",
+            "Alabar, bendecir, predicar es tu esencia, \n",
+            "hablar siempre con Dios o de Dios nos enseñas; \n",
+            "padre Santo Domingo, cumple fiel tu promesa, \n",
+            "pide que tu familia viva en la caridad \n",
+            "y en fraterna pobreza. \n"
+        ]
+    }
+
+}

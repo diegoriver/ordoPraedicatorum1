@@ -1,0 +1,61 @@
+{
+    "nombre": "EXÁMEN DE CONCIENCIA",
+    "oracionInicial": "Hermanos: al llegar al final de esta jornada que Dios nos ha concedido, reconozcamos sinceramente nuestros pecados.",
+    
+    "examen1":{	
+		"oracion" : "Yo confieso a Dios Todopoderoso, y a la Bienaventurada Virgen María, al Bienaventurado Domingo. Nuestro Padre, a todos los santos, y a ustedes hermanos, que he pecado mucho de pensamiento, palabra, obra y omisión; por mi culpa, les pido rueguen por mí.",
+		"v1" : " Dios Todopoderoso tenga misericordia de nosotros, perdone nuestros pecados y nos lleve a la vida eterna",
+		"r1" : " Amén."
+
+	},
+
+    "examen2":{	
+		"oracion" : "Yo confieso ante Dios Todopoderoso, y ante ustedes hermanos, que he pecado mucho de pensamiento, palabra, obra y omisión; por mi culpa, por mi culpa, por mi gran culpa. Por eso ruego a Santa María siempre Virgen, a los ángeles, a los santos, y a ustedes hermanos, que intercedan por mí, ante Dios, Nuestro Señor.", 
+    "v1" : " Dios Todopoderoso tenga misericordia de nosotros, perdone nuestros pecados y nos lleve a la vida eterna",
+		"r1" : " Amén."
+   },
+
+    
+    "examen3":{	
+		"v1" : " Señor: ¡ten misericordia de nosotros!",
+		"r1" : " Porque hemos pecado contra Ti.\n",
+    "v2" : " Señor: ¡ten misericordia de nosotros!",
+    "r2" : " Y danos tu salvación\n",
+    "oracion" : "Dios Todopoderoso tenga misericordia de nosotros, perdone nuestros pecados y nos lleve a la vida eterna. ",
+    "roracion" : " Amén"
+    },
+
+    "examen4":{	
+		"v1" : " Tú, que has sido enviado a sanar los corazones afligidos: ¡Señor, ten piedad!",
+		"r1" : "  ¡Señor, ten piedad! \n",
+		"v2" : " Tú que has venido a llamar a los pecadores: ¡Cristo, ten piedad!",
+    "r2" : "  ¡Cristo, ten piedad! \n",
+    "v3" : " Tú, que estás sentado a la derecha del Padre para interceder por nosotros: ¡Señor, ten piedad!",
+    "r3" : "  ¡Señor, ten piedad! \n",
+    "oracion" : "Dios Todopoderoso tenga misericordia de nosotros, perdone nuestros pecados y nos lleve a la vida eterna.",
+    "roracion" : " Amén"    
+    },
+
+    "examen5":{	
+		"v1" : " Tú, que quisiste experimentar nuestra naturaleza: ¡Señor, ten piedad! ",
+		"r1" : "  ¡Señor, ten piedad! \n",
+		"v2" : " Tú, que con tu sangre nos purificas de todo pecado: ¡Cristo, ten piedad!",
+    "r2" : "  ¡Cristo, ten piedad!  \n",
+    "v3" : " Tú, que concedes la paz y la alegría a cuantos creen en ti: ¡Señor, ten piedad! ",
+    "r3" : "  ¡Señor, ten piedad! \n",
+    "oracion" : "Dios Todopoderoso tenga misericordia de nosotros, perdone nuestros pecados y nos lleve a la vida eterna. ",
+    "roracion" : " Amén"
+    },
+
+    "examen6":{	
+		"v1" : " Tú, que perdonaste al ladrón arrepentido: ¡Señor, ten piedad! ",
+		"r1" : "  ¡Señor, ten piedad! \n",
+		"v2" : " Tú, que nos llamas a la conversión: ¡Cristo, ten piedad! ",
+    "r2" : "  ¡Cristo, ten piedad! \n",
+    "v3" : " Tú, que eres clemente y compasivo: ¡Señor, ten piedad!",
+    "r3" : "  ¡Señor, ten piedad! \n",
+    "oracion" : "Dios Todopoderoso tenga misericordia de nosotros, perdone nuestros pecados y nos lleve a la vida eterna.",
+    "roracion" : " Amén"
+    }
+
+}

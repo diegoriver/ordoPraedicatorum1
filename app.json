@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Ordo Praedicatorum",
+    "slug": "snack-006f19ef-7849-4d7d-8686-089676d2d025",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.diegoriverag.snack006f19ef78494d7d8686089676d2d025",
+      "buildNumber": "2.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "versionCode": 2,
+      "package": "com.diegoriverag.snack006f19ef78494d7d8686089676d2d025"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

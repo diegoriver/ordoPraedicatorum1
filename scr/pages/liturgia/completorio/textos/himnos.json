@@ -1,0 +1,228 @@
+{
+    "himno1":{	
+		"nombre" : "QUE VES EN LA NOCHE",
+		"cuerpo": [
+			"¿Qué ves en la noche?\n", 
+      "Dinos centinela (Bis)\n",
+      " \n",
+      "¿Qué ves en la noche? Dinos centinela (Bis)\n",
+      "Dios como un almendro,\n",
+      "con la flor despierta; \n",
+      "Dios, que nunca duerme, \n",
+      "busca quien no duerma. \n",
+      "Y entre las diez vírgenes, \n",
+      "sólo hay cinco en vela.\n",
+      " \n",
+      "¡Gallos vigilantes\n",
+      "que en la noche alertan!\n",
+      "Quien negó tres veces\n",
+      "otras tres confiesa.\n",
+      "Y pregona el llanto\n",
+      "lo que le miedo niega.\n",
+      "\n",
+      "Muerto lo bajaban\n",
+      "a la tumba nueva: \n",
+      "Nunca tan adentro\n",
+      "tuvo al sol la tierra.\n", 
+      "Daba el monte gritos\n",
+      "piedra contra piedra.\n",
+      "\n",
+      "Vi los cielos nuevos \n",
+      "y la tierra nueva; \n",
+      "Cristo entre los vivos\n",
+      "y la muerte muerta.\n",
+      "Dios en las criaturas\n",
+      "¡y eran todas buenas!\n"
+		]
+	},
+
+    "himno2":{	
+		"nombre" : "SOL DE MI SER",
+		"cuerpo": [
+      "Sol de mi ser mi Salvador,\n", 
+			"contigo vivo sin temor: \n",
+			"no quieras esconder jamás \n", 
+			"de mi la gloria de tu faz \n",
+			" \n",
+			"Al sueño blando, al entregar\n", 
+			"mi cuerpo para descansar, \n",
+			"pensando en ti recordaré, \n", 
+			"dijiste: te protegeré. \n",
+			" \n",
+			"Tu bendición al despertar\n",
+			"dame, y que al transitar\n",
+			"cual peregrino a su mansión,\n",
+			"alcance paz y salvación. \n"
+		]
+	},
+
+    "himno3":{	
+		"nombre" : "CERCA DE TI, SEÑOR",
+		"cuerpo": [
+      "Cerca de ti Señor, yo quiero estar;\n", 
+      "tu grande eterno amor, quiero gozar\n",
+      "Llena mi pobre ser, limpia mi corazón;\n",  
+      "hazme tu rostro ver en la aflicción.\n",
+      "  \n",
+      "Mi pobre corazón, inquieto está, \n", 
+      "por esta vida voy, buscando paz.  \n",
+      "Más sólo tú, Señor, la paz me puedes dar; \n",  
+      "cerca de ti, Señor, yo quiero estar.  \n",
+      "  \n",
+      "Pasos inciertos doy, el sol se va; \n",
+      "más si contigo estoy, no temo ya. \n",
+      "Himnos de gratitud, alegre cantaré, \n",
+      "y fiel a ti, Señor, siempre seré.  \n",
+      "  \n",
+      "Día feliz será, creyendo en ti, \n",
+      "en que yo habitaré cerca de ti. \n",
+      "Mi voz alabará tu santo nombre allí, \n",
+      "y mi alma gozará cerca de ti.  \n"
+    ]
+	},
+    
+    "himno4":{	
+		"nombre" : "DÍA Y NOCHE",
+		"cuerpo": [
+      "Día y noche, van tus ángeles Señor conmigo,\n",
+      "Día y noche, siento que tu estás en mi\n",
+      "  \n",
+      "Si anochese en el camino,\n",
+      "van tus ángeles, Señor, conmigo;  \n",
+      "si en la noche pierdo el rumbo, siento que tú estás en mí.  \n",
+      "  \n",
+       "Si camino entre los hombres,   \n",
+      "van tus ángeles, Señor, conmigo;  \n",
+      "al servirte cada día, siento que tú estás en mí.  \n",
+      "  \n",
+      "Si me encuentro triste y solo,  \n",
+      "van tus ángeles, Señor, conmigo;  \n",
+      "en las luchas de la vida, siento que tú estás en mí.  \n",
+      "  \n",
+      "Cuando va muriendo el sol,\n",
+      "van tus ángeles, Señor, conmigo. \n", 
+      "Al dormir confío en ti, siento que tú estás en mí.\n"
+    ]
+	},
+
+  "himno5":{	
+		"nombre" : "JUNTO A TI, SEÑOR",
+		"cuerpo": [
+      "Junto a tí al caer de la tarde\n",
+      "y casados de nuestra labor,\n",
+      "te ofrecemos con todos los hombres,\n",
+      "el trabajo el descanso el amor.\n",
+      " \n",
+      "Con la noche las sombras nos cercan, \n",
+      "pero tú nos has dado un hogar; \n",
+      "nuestro hogar son tus manos, oh Padre, \n",
+      "y tu amor nuestra vida será. \n", 
+      "  \n",
+      "Cuando al fin nos recoja tu mano, \n",
+      "para hacernos gozar de tu paz; \n",
+      "reunidos en torno a tu mesa, \n",
+      "nos darás la perfecta hermandad. \n", 
+      "  \n",
+      "Te pedimos, Señor que nos nutras \n",
+      "con el pan que del cielo bajó, \n",
+      "y renazca en nosotros la vida, \n",
+      "con la fe, la esperanza, el amor. \n"
+    ]
+	},
+
+  "himno6":{	
+		"nombre" : "QUÉDATE CON NOSOTROS",
+		"cuerpo": [
+      "Quédate con nosotros la tarde esta cayendo. Quédate. \n",
+      " \n",
+      "¿Cómo te encontraremos al declinar el día \n", 
+      "si tu camino no es nuestro camino? \n",
+      "Detente con nosotros la mesa está servida, \n",
+      "caliente el pan y envejecido el vino. \n",
+      " \n",
+      "¿Cómo sabremos que eres un hombre entre los hombres, \n", 
+      "si no compartes nuestra mesa humilde? \n", 
+      "Repártenos tu Cuerpo y el gozo irá alejando \n",
+      "la oscuridad que pesa sobre el hombre. \n", 
+      "  \n",
+      "Vimos romper el día sobre tu hermoso rostro \n", 
+      "y al sol abrirse paso por tu frente. \n", 
+      "Que el viento de la noche no apague el fuego vivo \n", 
+      "que nos dejó tu paso en la mañana. \n"
+    ]
+	},
+
+  "himno7":{	
+		"nombre" : "PORQUE ANOCHECE YA",
+		"cuerpo": [
+      "Porque anochece ya, \n",  
+      "porque es tarde Dios mío, \n", 
+      "porque temo perder las huellas del camino. \n", 
+      "No me dejes tan solo \n",  
+      "y quédate conmigo. \n", 
+      "  \n",
+      "Porque he sido rebelde \n",  
+      "y he buscado el peligro. \n", 
+      "Y escudriñé curioso las cumbres y el abismo. \n", 
+      "Perdóname Señor, \n",  
+      "y quédate conmigo. \n", 
+      "  \n",
+      "Porque ardo en sed de ti \n", 
+      "y en hambre de tu trigo, \n", 
+      "Ven, siéntate a mi mesa, dígnate ser mi amigo; \n", 
+      "¡que pronto cae la tarde! \n", 
+      "Ven, ¡quédate conmigo! \n"
+    ]
+	},
+
+  "himno8":{	
+		"nombre" : "BENDITO SILENCIO",
+		"cuerpo": [
+      "Este bendito silencio \n", 
+      "que rasgan mis palabras, \n", 
+      "Me enseña, Jesús, el misterio \n", 
+      "de la humildad callada \n", 
+      "que hay dentro de tu alma \n",  
+      "pobre, obediente y casta. \n", 
+      "  \n",
+      "La soledad de la tarde \n",  
+      "y el frío que me hiela \n", 
+      "me enseñan, Jesús, a esperarte: \n", 
+      "si acaso tú vinieras \n", 
+      "mi corazón te espera \n", 
+      "toda la noche en vela. \n", 
+      "  \n",
+      "Este desierto y camino, \n",  
+      "un día y otro día \n", 
+      "me enseña, Señor Jesucristo, \n", 
+      "que Tú eres mi alegría, \n", 
+      "mi dulce compañía \n", 
+      "¡Ven, Vida de mi vida! \n"     
+    ]
+	},
+
+  "himno9":{	
+		"nombre" : "LA NOCHE",
+		"cuerpo": [
+      "/La noche será mi maestra \n", 
+      "La noche, la luna y las estrellas/ (x2). \n", 
+      "  \n",
+      "Habitaré su soledad como un aula, \n", 
+      "De su silencio aprenderé la enseñanza, \n", 
+      "/y esperaré la mañana, \n", 
+      "Aguardaré el sol de tu gracia/ (x2). \n", 
+      "  \n",
+      "/La noche será mi maestra La noche, \n", 
+      "la luna y las estrellas/ (x2). \n", 
+      "  \n",
+      "Cantos de gozo regalaste a mi alma, \n", 
+      "Yo cantaré para tu honor y alabanza, \n", 
+      "/y esperaré la mañana, \n", 
+      "Aguardaré el sol de tu gracia/ (x2). \n", 
+      "  \n",
+      "/La noche será mi maestra La noche, \n", 
+      "la luna y las estrellas/ (x2). \n"
+    ]
+	}
+
+}

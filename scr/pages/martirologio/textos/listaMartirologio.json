@@ -1,0 +1,495 @@
+{
+
+    "fecha0101":{
+        "fecha" :  "01 de Enero",
+        "nombre" : "Santa María, Madre de Dios. " ,
+        "fiesta" : "Solemnidad",
+        "resena" : "El «Natale Sanctae Mariae» comenzó a celebrarse en Roma hacia el siglo VI, probablemente junto con la dedicación de una de las primeras iglesias marianas de Roma, esto es, Santa María Antigua, en el Foro Romano. La última reforma del calendario trasladó al 1 de enero la fiesta de la maternidad divina, que desde 1931 se celebraba el 11 de octubre en memoria del Concilio de Efeso (431), donde se proclama a María “Theotokos”, la que dio a luz al Salvador, el Hijo de Dios. "
+        },
+        
+    "fecha0301":{
+        "fecha" : "03 de Enero",
+        "nombre" :"Santísimo Nombre de Jesús. ",
+        "fiesta" :"Conmemoración",
+        "resena" : "En nuestra Orden desde los orígenes se enumeran varios hermanos que profesaron amor particular al “dulcísimo nombre del Salvador.” Gregorio X después del segundo Concilio de Lyon (1274), encomendó a los frailes predicadores la promoción de la alabanza y veneración del Santísimo Nombre de Jesús, siendo el beato Juan Vercelli, Maestro de la Orden en el momento, uno de los que con más ardor se dedicó a esta promoción.  "
+        },
+
+    "fecha0401":{
+        "fecha" : "04 de Enero",
+        "nombre" :"Santa Zedíslava de Lemberk.",
+        "fiesta" :"M.L.",
+        "resena" : "(+1252) Zédislava nació en Krizanov (Moravia). Vivió ejemplarmente su vida de madre de familia, ejerciendo la caridad. Consiguió de su marido la fundación de dos conventos para la Orden, colaborando en la expansión por Polonia, Prusia y Bohemia. Murió en 1252 y su culto fue confirmado en 1907.  "
+        },
+
+    "fecha0701":{
+        "fecha" : "07 de Enero",
+        "nombre" :"San Raimundo de Peñafort, presbítero.",
+        "fiesta" :"M.O.",
+        "resena" : "(1175-1275) Raimundo nació en Penyafort, cerca de Barcelona. Ingresó a la Orden en 1222 en el Convento de Santa Catalina. Gregorio X lo llamó a Roma y allí, compiló las “Decretales.” Siendo durante dos años Maestro de la Orden, preparó la segunda redacción de sus constituciones. Murió en Barcelona el 6 de enero de 1275. Fue canonizado el 29 de abril de 1601. Es patrono de los juristas. "
+        },
+
+    "fecha1001":{
+        "fecha"  : "10 de Enero",
+        "nombre" :"Beata Ana de los Ángeles Monteagudo.", 
+        "fiesta" :"M.O.",
+        "resena" : "(1602-1686) Nació en Arequipa (Perú). Ingreso a los 16 años al monasterio de Santa Catalina de Siena en esta ciudad y dedicó durante casi setenta años allí, ejerció los oficios de sacristía, priora y maestra de novicias, siempre con entusiasmo, caridad con los necesitados, y rezando por las almas del purgatorio. Murió el 10 de enero de 1686. Fue beatificada el 2 de febrero de 1985. "
+        },
+
+    "fecha1501":{
+        "fecha"  : "15 de Enero",
+        "nombre" :"San Francisco Fernández de Capillas y Comp. Mártires.",
+        "fiesta" :"M.O.",
+        "resena" : "(1607-1648) Nacido en Palencia, ingresó al convento de Valladolid. Llegó a Manila en 1632, y posteriormente a China en 1641, donde dedicó su vida a la caridad, enseñanza de la Buena noticia y confesión valiente de la fe. Murió decapitado el 15 de enero de 1648. San Juan Pablo II, el 1 de octubre del 2000, canonizaba solemnemente en la Plaza de San Pedro, a 120 mártires de China, entre los que estaban ahora San Francisco Fernández de Capillas y otros cinco compañeros mártires: San Joaquín Royo, San Pedro Sans, San Francisco Serrano, San Francisco Díaz y San Juan Alcober. "
+        },
+
+    "fecha1801":{
+        "fecha"  : "18 de Enero",
+        "nombre" :"Santa Margarita de Hungría.",
+        "fiesta" :"M.O.",
+        "resena" : "(1242-1270) Hija del rey de Hungría, Bela IV, ofrecida por la liberación de la patria y confiada al monasterio de la Orden en Buda profesó en 1254. Allí vivió en exclusividad a Cristo, mediante la oración y la penitencia. Fue llamada a las bodas del Cordero el 18 de enero de 1270. Fue canonizada el 19 de noviembre de 1943. "
+        },
+
+    "fecha2301": {
+        "fecha"  : "23 de Enero",
+        "nombre" :"Beato Enrique Seuze, presbítero.", 
+        "fiesta" :"M.O.",
+        "resena" : "(±1294-1366) Nacido cerca de Constanza (Alemania), tomó el nombre de familia de su madre: Seuze (Susón). Fue discípulo del Maestro Eckhart. Durante sum vida religiosa se destacó por su vida penitencial, su temperamento afectivo, y su labor exigente como director espiritual. Compuso la admirable obra El dialogo de la divina Sabiduría, predicó durante su vida el suavísimo nombre de Jesús el cual grabo en su pecho. Murió en Ulma el 25 de enero de 1366. Su culto fue confirmado en 1831. "
+        },
+
+    "fecha2801":{
+        "fecha"  : "28 de Enero",
+        "nombre" :"Santo Tomás de Aquino, presbítero y Doctor de la Iglesia.",
+        "fiesta" :"Fiesta",
+        "resena" : "(1225-1274) Tomás nació en Roccasecca (Italia). Superando la oposición ingreso a la Orden a los 19 años. Fue discípulo de Alberto Magno en Colonia (1248-1252), maestro de catedra de teología en París, luego en Nápoles y Roma. Empleo sus capacidades totalmente al servicio de la verdad, ansioso de alcanzarla y trasmitió numerosos escritos, especialmente en las dos summas. Fue devotísimo de Cristo, especialmente de la cruz y de la Eucaristía, que exaltó en sus composiciones litúrgicas. Murió en la abadía de Fossanova el 7 de marzo de 1274, camino al concilio de Lyon. Canonizado el 28 de julio de 1323, Pio V lo declaró doctor de la Iglesia y León XIII lo proclamó patrono de las universidades y escuelas católicas en 1880 "
+        },
+
+    "fecha0402":{
+        "fecha"  : "04 de febrero",
+        "nombre" :"Santa Catalina de Ricci, Virgen.", 
+        "fiesta" :"M.O.",
+        "resena" : "(1522-1590) Catalina nació en Florencia (Italia) a los doce años ingresa y se hace hermana de la Tercera Orden en el monasterio de San Vicente (Prato). Tuvo durante toda su vida una devoción especial a la pasión de Cristo y mereció experimentarla en su propio cuerpo siendo adorando con los estigmas durante doce años (1542-1554). Murió en Prato el 2 de febrero de 1590 y su cuerpo se venta en la Basílica de San Vicente de la misma ciudad. Fue canonizada el 29 de junio de 1746 por Benedicto XIV. "
+        },
+
+    "fecha0702":{
+        "fecha"  :"07 de febrero",
+        "nombre" :"Aniversario de los padres y madres difuntos. ",
+        "fiesta" :"M.L.",
+        "resena" : "La Familia Dominicana expresa hoy la piedad hacia nuestros padres difuntos elevando oraciones por quienes nos engendraron a nuestra vida terrena y sobretodo nos engendraron a la vida en Cristo, a la vez que nos educaron y entregaron al seguimiento del Señor en la Orden de Predicadores. Ellos, marcados con el signo de la fe de su bautismo, duermen ya el sueño de la paz. "
+        },
+    
+    "fecha1202":{
+        "fecha"  :"12 de febrero",
+        "nombre" :"Beato Reginaldo de Orléans, Presbítero. ",
+        "fiesta" :"M.L.",
+        "resena" : "(1180-1220)Reginaldo de Saint Gilles nació en Orléans (Francia). Ingresó a la Orden de Predicadores por la mediación milagrosa de la Virgen María, quien le presentó en hábito dominicano y profesó en manos de Sto. Domingo de Guzmán. Era un predicador ardoroso, que en breve tiempo llevó muchas vocaciones a la Orden. Murió el París el 12 de febrero de 1220 y fue sepultado en la Iglesia benedictina de Notre-Dame-des Champs, su cuerpo desapareció durante la revolución francesa. Su culto fue confirmado en 1875. "
+        },
+    
+    "fecha1302":{
+        "fecha"  :"13 de febrero",
+        "nombre" :"Beato Jordán de Sajonia, Presbítero.", 
+        "fiesta" :"M.O.",
+        "resena" : "(1176-1237) Jordán nació en Burgberg (Westfalia). Fue sucesor inmediato de Sto. Domingo y su primer biógrafo dejando para la posteridad la obra Orígenes de la Orden. Promovió la canonización de Sto. Domingo y contribuyó de modo decisivo en los inicios de la Orden, se le atribuye la fundación de 204 conventos y la captación de gran número de vocaciones. Regresando de visitar los conventos de la Orden en Tierra Santa sufrió un naufragio frente a las cosas de Siria. Su culto fue confirmado en 1826 y la orden desde 1955 lo nombró patrono de las vocaciones dominicanas. "
+        },
+    
+    "fecha1802":{
+        "fecha"  :"18 de febrero",
+        "nombre" :"Beato Juan de Fiésole (Fray Angélico), Presbítero.", 
+        "fiesta" :"M.O.",
+        "resena" : "(±1400-1455) Güidolino nació en Mugello (Italia). Fue de carácter apacible y vida religiosa observante, devoto y extraordinario pintor. Realizó obras expresivas de Cristo evidenciando así su íntima unión. Por petición del prior, decoró con frescos el convento de San Marcos de Florencia, en sus celdas, aula capitular, pasillos. Fue llamado pinto “Angélico” porque su arte respira el ambiente celestial. Murió en Roma el 18 de febrero de 1455 y su cuerpo se venera en la basílica dominicana de Santa María de Sopra Minerva. Su culto fue confirmado el 3 de octubre de 1982. "
+        },
+       
+    "fecha1902":{
+        "fecha"  :"19 de febrero",
+        "nombre" :"Beato Álvaro de Córdoba, Presbítero.", 
+        "fiesta" :"M.O.",
+        "resena" : "(Mediados del s. XIV-1430) Álvaro nació en Zamora e ingresó a la Orden en 1368. Fue docente de San Pablo en Valladolid y luego maestro de Teología en Salamanca. Inicio la reforma de la Orden en España fundando el convento de Scala Coeli (Córdoba). Propone la meditación de la Pasión del Señor con la construcción de dos capillas y la devoción del “Santo Vía Crucis”. Muere el 19 de febrero de 1430. Benedicto XIV aprobó su culto en septiembre de 1741. "
+        },
+
+    "fecha2503":{
+        "fecha"  :"25 de marzo",
+        "nombre" :"Anunciación del Señor. ", 
+        "fiesta" :"Solemnidad",
+        "resena" : "La fiesta de la Anunciación a María es también, e indisolublemente, la fiesta de la Encarnación del Verbo de Dios. Es éste el acontecimiento que hace girar los siglos. El comienzo de nuestra salvación. Dios ha entrado en la historia humana. "
+        },
+    "fecha0204":{
+        "fecha"  :"02 de abril ",
+        "nombre" :"Santo Domingo Tuóc, Presbítero-Mártir ", 
+        "fiesta" :"M.L.",
+        "resena" : "(1775-1839) Nació en Trung-lao (Vietnam). Tomo hábito dominicano en el Convento Sto. Domingo de Manila. Era un hombre de oración, pasaba muchas noches junto al Señor. Fue hecho prisionero y se puso en manos de la Providencia. Uno de los forajidos le propinó un golpe con espada en la cabeza falleciendo así el 02 de abril de 1839. Canonizado el 19 de junio de 1988. "
+        },
+
+    "fecha0404":{
+        "fecha"  :"04 de abril",
+        "nombre" :"Santo José Tuan, Presbítero-Mártir", 
+        "fiesta" :"M.L.",
+        "resena" :"(+1861) Formado en la casa de los dominicos de Vietnam, profesó y se preparó para el sacerdocio. Contaba con 50 años cuando cayó en manos de los enemigos de la religión. Fue condenado a la pena capital, llegados al lugar se postró de rodillas, invocó el nombre de Jesús y encomendó su espíritu a Dios. El verdugo de un tajo le segó la vida el 04 de abril de 1861. Juan Pablo II lo canonizó en 1988 junto a los mártires de Vietnam.  "
+        },        
+    "fecha0504":{
+        "fecha"  :"05 de abril ",
+        "nombre" :"San Vicente Ferrer, Presbítero ", 
+        "fiesta" :"M.O. ",
+        "resena" :"(1350-1419) Nace en Valencia en 1350, ingresa a los 17 años a la Orden viviendo con disciplina y vida regular. Tuvo una sólida formación en filosofía y teología como consta en diversos escritos. Predicó por toda Europa occidental el Evangelio de la Jesucristo. Fue el más popular y eficaz predicador de su tiempo, dejando siempre inquietud de renovación espiritual, paz y unidad de la Iglesia. Murió en Vannes (Francia) el 05 de abril de 1419. Fue canonizado el 29 de junio de 1455. "
+        },
+    "fecha2004":{
+        "fecha"  :"20 de abril",
+        "nombre" :"Santa Inés de Montepulciano, Virgen. ", 
+        "fiesta" :"M.O.",
+        "resena" :"(1268-1317) Inés Segni nació Gracciano Vecchio, cerca de Montepulciano (Italia). A los nueve años ingresó en un monasterio de Montepulciano.  Con quince años de edad y seis de vida comunitaria  se direcciona a Procena, cerca de Viterbo, para organizar y direccionar la comunidad de allí. En el monasterio dio siempre buen ejemplo de verdadera humildad, abnegación, imitación de Cristo en su pasión y de extraordinaria capacidad de dirección espiritual. Murió el 20 de abril de 1317. Fue canonizada el 10 de diciembre de 1726. "
+        },
+        
+    "fecha2904":{
+        "fecha"  :"29 de abril ",
+        "nombre" :"Santa Catalina de Siena, Virgen y Doctora de la Iglesia.  ", 
+        "fiesta" :"Fiesta ",
+        "resena" :"(1347-1380)  Catalina nació en Siena (Italia), a los siete años ofreció su virginidad a Dios y a los dieciséis inicia la vida entre las Hermanas de la Penitencia de Sto. Domingo. Fue infatigable en su trabajo por extender la paz, devolver a Roma su Sede Apostolica y conseguir la unión de la Iglesia. Sus escritos son fehaciente documentación de su preclara ciencia, infundida por Dios. Murió en Roma el 29 de Abril de 1380. Fue canonizada el 29 de junio de 1461. "
+        },        
+    "fecha3004":{
+        "fecha"  :"30 de abril ",
+        "nombre" :"San Pio V, Papa. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"(1504-1572) Miguel Ghrislieri nació en Bosco Marengo (Italia) e ingresó a la Orden a los quince años tomando el nombre de Pio. Prior, inquisidor, obispo, cardenal y papa elegido el 7 de enero de 1566. Restauró el culto cristiano  y la disciplina eclesiástica, poniendo en práctica las normas del Concilio de Trento. Egregio, entusiasta apostólico y devoto de la Virgen María. Murió en Roma el 1 de mayo de 1572. Su cuerpo se venera en la Capilla Mayor de la Basílica Santa María la Mayor de Roma. Fue canonizado el 22 de mayo de 1712. "
+        },
+    "fecha0105":{
+        "fecha"  :"01 de mayo ",
+        "nombre" :"San Agustín Schoeffler, Presbítero, mártir, Tercera Orden ", 
+        "fiesta" :"M.O. ",
+        "resena" :"(1822 - 1851) Nació en Mittelbronn en Lorena. Estudió en el seminario de Ponto-à-Mausson en Nancy, regido por los dominicos, y por su influencia se hizo Terciario Dominico. Ingresó en el Instituto de Misiones Extranjeras de París, ordenándose sacerdote en 1847 y ofreciéndose para ir a Tonkin porque sabía la peligrosa situación que este país presentaba. En la aldea de Son-Tay, en Tonkín fue encarcelado después de haber ejercido durante tres años su ministerio, por orden del emperador Tu Duc fue finalmente decapitado en un paraje denominado Cinco Yugadas, y obtuvo así la gracia del martirio que cada día había pedido a Dios. "
+        },        
+    "fecha0805":{
+        "fecha"  :"08 de mayo ",
+        "nombre" :"Patrocinio de Santa María sobre la Orden. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"El 22 de diciembre de 1216, hace ocho siglos, el papa Honorio III mediante bula “religiosam Vitam” confirmó la Orden de Predicadores, para recordar este hecho se instituyo la fiesta del patrocinio de la Virgen María sobre la Orden, que en todo hace honor a María. Y es que desde el principio tuvo una gran experiencia de protección y este hecho llena de gozo a los corazones más sencillos que la veneran como patrona celestial y protectora. Al ser el 22 de diciembre feria mayor de Adviento, en fechas mas recientes se cambio esta fiesta al 8 de mayo, mes de la Virgen María. "
+        },        
+    "fecha1005":{
+        "fecha"  :"10 de mayo ",
+        "nombre" :"San Antonino de Florencia, Obispo. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"(1389-1459) Fraile dominico, moralista y arzobispo de Florencia, canonizado por Adriano VI en 1523. «Antonino (San) Arzobispo de Florencia, Religioso de la Orden de Santo Domingo, nació en Florencia el año de 1389, entró en la Orden de Predicadores de edad de 16 años, y ejerció todos los cargos de su Orden. Antonino fue muy conocido por su servicio a los pobres y su prudencia para resolver problemas de todo tipo. Su palabra y su ejemplo influyeron decididamente en la vida de Florencia. Era conocido como «Antonino el de los consejos». Falleció el 2 de mayo de 1459. "
+        },
+    "fecha1905":{
+        "fecha"  :"19 de mayo ",
+        "nombre" :"San Francisco Coll y Guitart, Presbítero ", 
+        "fiesta" :"M.L. ",
+        "resena" :"(1812 - 1875) fue un sacerdote español profeso de la Orden de Predicadores y fundador de la Congregación de Hermanas Dominicas de la Anunciata, reconocido como santo por la Iglesia católica el 11 de octubre de 2009. A los 18 años, tras sentir el llamado de Dios a la Orden de Predicadores, ingresa en el convento dominico de Gerona, donde hace su profesión en 1831. El padre Coll dividía sus trabajos entre su actividad misionera y la organización de la Congregación. Sin embargo a los 57 años, en diciembre de 1869, predicando en la localidad de Sallent, sufrió un primer ataque cerebrovascular. Su salud empezó a declinar, se fue quedando ciego y perdiendo por momentos las facultades mentales. Fue una dura prueba que vivió con fe, entereza y apoyado en el rezo del Rosario. Falleció en Vich el 2 de abril de 1875, con fama de santidad. "
+        },
+        
+    "fecha2105":{
+        "fecha"  :"21 de mayo ",
+        "nombre" :"Beato Jacinto Maria Cormier, Presbítero. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Maestro de la Orden de Predicadores entre 1904 y 1916, fundó el Colegio Angelicum de Roma y agregó 32 congregaciones de hermanas de vida apostólica a la Orden. En el capítulo general electivo, celebrado en Viterbo en 1904, fue elegido maestro de la orden. Apenas tomó posesión del cargo se propuso visitar las diferentes provincias, y así es-tuvo por Italia, Austria, Holanda y Alemania. Se disponía a trasladarse a los Estados Unidos de América del Norte cuando una grave enfermedad le hizo desistir de su propósito. Por consejo de los médicos, de frailes de la orden y hasta del propio papa San Pío X, encargó el trabajo de las visitas a otras personas que le informaban de la situación de los religiosos repartidos por el mundo. Restauró varias provincias, como la de Colombia (1910), Aragón (1912), y creó otras nuevas: Canadá (1911), California (1912). Falleció el 17 de diciembre de 1916 renovando su profesión religiosa y bendiciendo a todos. "
+        },        
+    "fecha2405":{
+        "fecha"  :"24 de mayo ",
+        "nombre" :"Translación de Nuestro Padre Santo Domingo.  ", 
+        "fiesta" :"M.O. ",
+        "resena" :"Santo Domingo fue enterrado primero en un lugar al aire libre, no lejos de donde había muerto. Con la creciente fama de santidad, doce años después de su muerte, los frailes quisieron hacer un mausoleo más acorde a su memoria y así honrarle. El 24 de mayo de 1233, lunes de Pentecostés, se abrió el sepulcro. Cuenta la tradición piadosa, que en vez del olor de la descomposición del cadáver, del antiguo sepulcro subió un maravilloso olor, un perfume nunca olido, una fragancia nunca antes conocida. "
+        },
+    "fecha2605":{
+        "fecha"  :"26 de mayo ",
+        "nombre" :"San Pedro Sans y Jordá, Obispo-Mártir. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"(1680 -1747) En Fuzhou, en Fujian, provincia de China, san Pedro Sans y Jordá, obispo de la Orden de Predicadores y mártir, el cual, habiendo sido detenido junto con otros sacerdotes y llevado preso hasta el tribunal a través de un largo recorrido, se arrodilló en el lugar del suplicio y, terminada su oración, ofreció de buena gana su cuello al hacha (1747). "
+        },
+
+    "fecha0406":{
+        "fecha"  :"04 de Junio ",
+        "nombre" :"San Pedro de Verona, Presbítero- Mártir. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"(1205 - 1252) San Pedro de Verona es considerado el segundo santo de la Orden de Predicadores (dominicos). Fue un insigne predicador que llevó su misión al punto de entregar la vida en el martirio. Su prédica estuvo dedicada a combatir la herejía de los cátaros o albigenses, quienes, en el siglo XIII, habían extendido su “maniqueísmo cristiano” con relativo éxito por la Europa occidental, incluyendo el centro y norte de Italia, de donde era originario este Santo. \n\n   En 1248 fue designado prior del convento de Asti y un año después del de Piacenza. En 1251, el Papa Inocencio IV lo nombró inquisidor de Lombardía y prior de Como. Mientras su fama se extendía, sus enemigos hacían planes para deshacerse de él. \n\n   El complot en su contra se ejecutó el 6 de abril de 1252, cuando el Santo regresaba de Milán al monasterio de Como, ubicado muy cerca de la localidad de Barlassina. San Pedro de Verona fue atacado por Carino de Bálsamo, quien le asestó dos golpes de hacha en la cabeza con el propósito de asesinarlo. Pedro, mientras se desangraba y con las últimas fuerzas que le quedaban, escribió con el dedo ensangrentado sobre el suelo: 'Creo en Dios'. "
+        },        
+    "fecha0606":{
+        "fecha"  :"06 de Junio ",
+        "nombre" :"Beatas Cecilia Romana y Diana de Andaló, Vírgenes.  ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Primeras beatas dominicas directamente relacionadas con Santo Domingo en la fundación y organización de los primeros monasterios de dominicas. \n\n   Diana de Andaló nació en Bolonia hacia el 1200. Ayudó al beato Reginaldo de Orleans a fundar el convento en aquella ciudad, y en 1219 profesó en manos de santo Domingo, entrando más tarde en el monasterio de clausura de Santa Inés, fundando por ella y por el beato Jordán de Sajonia, donde vivió como madre y ejemplo vivo de las hermanas. Murió el 10 de junio de 1236. Su cuerpo se venera en el monasterio de Santa Inés; su cabeza en la basílica de Santo Domingo. Su culto fue confirmado en 1888. \n\n   Cecilia Cesarininació en Roma a principio del s. XIII y en 1221 profesó en manos de santo Domingo en el monasterio de San Sixto. Entre el 1223-1224 fue enviada por el papa Honorio III con otras tres monjas a Bolonia para ayudar a la beata Diana en la organización del monasterio de Santa Inés, donde condujo una vida religiosa ejemplar y antes de su muerte describió la fisonomía física y espiritual y los milagros de santo Domingo. Murió el año 1290 probablemente el 4 de agosto. Su cuerpo se venera en la iglesia del monasterio de Santa Inés. Su culto fue confirmado en 1891."
+        },
+    "fecha1006":{
+        "fecha"  :"10 de Junio ",
+        "nombre" :"Beato Juan Dominicí, Obispo. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Miembro de la Orden de Predicadores, diplomático y escritos, obispo de la diócesis de ragusa. Es considerado uno de los principales impulsores de la reforma de la vida religiosa tras la crisis de la claustra. \n\n   Juan Bianchini, apellidado Domínici quizá por el nombre de su padre, nació en Florencia hacia 1355. Fue el primer fraile que introdujo en Italia la observancia regular, promovida desde 1348 por el beato Raimundo de Capua, cuando éste en 1393 lo nombró vicario general de los conventos reformados. Fue arzobispo de Ragusa (Dubrovnik, Croacia) y cardenal legado de los papas Gregorio XII y Martín V. Escribió doctos comentarios espirituales y colaboró eficazmente en la unidad de los cristianos en el concilio de Costanza. Murió en Budapest el 10 de junio de 1419 y fue enterrado en la iglesia de los Eremitas de San Pablo, destruida en el s. XVI. Su culto fue confirmado en 1832. "
+        },        
+    "fecha1906":{
+        "fecha"  :"19 de Junio ",
+        "nombre" :"San José Uyen, Laico Tercera Orden. ", 
+        "fiesta" :"M.L. ",
+        "resena" :" "
+        },        
+    "fecha2306":{
+        "fecha"  :"23 de Junio ",
+        "nombre" :"Beato Inocencio V, Papa. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Fraile dominico francés del siglo XIII, elegido Papa en 1276 tomando el nombre de Inocencio V aunque su pontificado duró cuatro meses. Durante ese tiempo se esforzó por liberar Tierra Santa y luchó por la paz y la unidad de los cristianos. \n\n   Pedro nació en Tarantaise (Lyon, Francia) en 1244. Entró muy joven en la Orden en el convento de Lyon. Fue profesor de teología en París, provincial de Francia, arzobispo de Lyon, y cardenal que dirigió con eficacia el Concilio II de Lyon. Siempre vivió con extrema pureza y santidad, encarnando espléndidamente el ideal de la Orden. El 21 enero de 1276 fue elegido Papa, tomando el nombre de Inocencio V, pero su pontificado duró cuatro meses: «más bien mostrado, que dado a la Iglesia», trabajando en ese tiempo por la liberación de Tierra Santa y por la paz y la unidad de los cristianos. Murió en Roma, cuando contaba cincuenta y dos años, el 22 de junio de 1276 y su cuerpo fue colocado en la basílica de San Juan de Letrán, pero su sepulcro fue destruido por un terremoto en el siglo XVIII. Su culto fue confirmado en 1898. "
+        },
+    "fecha2506":{
+        "fecha"  :"25 de Junio ",
+        "nombre" :"Santo Domingo de Henares, Obispo-Mártir & San Francisco Do Minh Chieu, catequista. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"En la ciudad de Nam Dinh, en Tonkín, santos Domingo de Henares, obispo de la Orden de Predicadores, y Francisco Do Minh Chieu, mártires, el primero de los cuales propagó la fe cristiana durante cuarenta y nueve años, y el segundo cooperó con él como catequista. Ambos fueron decapitados por su fe en Cristo, en tiempo del emperador Minh Mang.  \n\n   Domingo Henares (1765 - 1838). Nació en Baena (Córdoba). La familia se trasladó a Granada, porque vivían en una tremenda miseria económica. Los padres, viendo que Domingo era despierto quisieron que estudiara en la universidad. Quiso ingresar en el convento dominico de Santa Cruz la Real de Granada, pero no le admitieron, pero no por ello se rindió, hasta que en 1783, le admitieron en el convento dominico de Guadix, después que le rechazaran en Niebla y Cádiz.  \n\n   En 1838, cayó en manos de sus incansables perseguidores en el poblado de Kien Lao, que intentaron que denunciara a los otros cristianos y misioneros y se negó, declaró los motivos de su estancia en Tonkín y defendió el cristianismo como la fe verdadera, y lo decapitaron, en Hanoi junto a su catequista san Francisco Do Minh Chieu, sus cabezas fueron arrojadas al río y recuperadas por un pescador cristiano.  \n\n   \n\n   Francisco Do Minh Chieu (1796 - 1838). Nació en Trung-Le, en el seno de una familia cristiana. Estuvo seis años en el seminario latino de Tien-Chu, pero al no decidirse por el sacerdocio, el vicario apostólico, Domingo Henares, lo eligió como su catequista compañero, y con él compartió sus correrías apostólicas por todo el vicariato; también compartió, cuando arreció la persecución, las huidas y los escondites, hasta que fueron traicionados y arrestados. \n\n   Los llevaron a la capital de la provincia; el prelado iba en una jaula, y Francisco cargado con una canga, al llegar a la ciudad, pusieron en el camino una cruz para que la pisaran, nuestro catequista, la cogió en sus brazos y con ella entró en la ciudad. Se negó rotundamente a pisar la cruz y por ello fue decapitado en Nam-Dinh junto con Domingo Henares. Antes de morir nombró el nombre de Jesús repetidamente. Fueron canonizados por el papa Juan Pablo II el 19 de junio de 1988. "
+        },
+        
+    "fecha2706":{
+        "fecha"  :"27 de Junio ",
+        "nombre" :"Santo Tomás Toan, Laico Tercera Orden. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Nace en Can Phan, Vietnam 1767, muere en Nam Định, Vietnam 27 de junio de 1840. Tercera Orden. Martirizado por Minh Mạng. "
+        },        
+    "fecha2906":{
+        "fecha"  :"29 de Junio ",
+        "nombre" :"San Vicente Yen, Presbítero. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"En la ciudad de Hai Duong, en Tonquín, san Vicente Do Yen, presbítero de la Orden de Predicadores y mártir, que, en tiempo del emperador Minh Mang, fue degollado por odio a la fe cristiana.  \n\n   Nació en Tra-Lu, Nam-Dinh, Vietnam. Nace en el seno de una familia cristiana el año 1764 en el poblado vietnamita de Tra-Lu. Recibido y educado en la llamada «Casa de Dios», san Clemente Ignacio Delgado lo ordenó sacerdote en 1798. Surgida aquel mismo año la persecución, cuando ya estaba dedicado a la cura de almas, fue denunciado y arrestado en 1799 y pasó a la cárcel con la canga al cuello.  \n\n   Camino ya del suplicio, todos se admiraban de que aquel anciano de 74 años caminaba erguido con mucha alegría. De él se dice en el proceso de beatificación “que tenía maravillosa suavidad de carácter, su semblante era alegre y su misericordia sin límites, y que era prudente, pacífico, virtuoso: su vida edificó a muchos y los llevó a la conversión. León XIII lo beatificó en mayo de 1900 y Juan Pablo II lo canonizó el 19 de junio de 1988. "
+        },
+    "fecha0107":{
+        "fecha"  :"01 de Julio ",
+        "nombre" :"San Valentín de Berrio-Ochoa, Obispo-Mártir. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"1827 Nacimiento Valentín de Berrio-Ochoa nace en Vizcaya, España. Hijo de carpintero, aprende el oficio del padre.  \n\n   San Valentín de Berrio-Ochoa nació en Vizcaya, España, en febrero de 1827. Fue hijo de un carpintero, en cuyo taller aprendió el arte del trabajo con la madera. Fue monaguillo en el monasterio de Santa Ana de las monjas dominicas. Desde muy pequeño se caracterizó por su piedad y carácter afable.  \n\n   Recibió la ordenación episcopal el 27 de junio de 1858. Empezó como obispo auxiliar, pero sumió el gobierno del rebaño dos semanas después tras el martirio del obispo titular. A pesar de las constantes amenazas, decidió quedarse junto con algunos más. Fueron capturados y martirizados en octubre de 1861. "
+        },
+
+    "fecha0707":{
+        "fecha"  :"07 de Julio ",
+        "nombre" :"Beato Benedicto XI, Papa. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"(1240-1304) Nicolás Boccasini fue fraile dominico, Maestro de la Orden y elegido Pontífice con el nombre de Benedicto XI en 1303, cargo que ocupó hasta su muerte, nueve meses después. Es autor de un tratado de sermones y comentarios al Evangelio de San Mateo, salmos, Libro de Job y Apocalípsis.  \n\n   Nicolás Boccasini nació en Treviso (Venecia, Italia}, de familia humilde, pues su madre era lavandera, y entró en la Orden a los quince años. Gran amante e impulsor de la vida comunitaria, fue dos veces provincial de Lombardía. A los dos años de ser Maestro de la Orden fue nombrado cardenal por el papa Bonifacio VIII. Sucedió a Bonifacio VIII en el pontificado con el nombre de Benedicto XI el 22 de octubre de 1303, muriendo a los nueve meses de su elección. Fue grande en la humildad y la justicia y muy amante de la paz. Durante su breve pontificado ayudó decididamente a sus hermanos los frailes mendicantes, buscó la paz en Inglaterra y Alemania y la reconciliación de Francia con la Sede Apostólica. Murió en Perusa (Umbría) el 7 de julio de 1304 y su cuerpo se venera allí en la iglesia de Santo Domingo. Su culto fue confirmado en 1736. "
+        },
+
+    "fecha0907":{
+        "fecha"  :"09 de Julio ",
+        "nombre" :"San Juan de Colonia, Presbítero y Comp. Mártires. ", 
+        "fiesta" :"M.O. ",
+        "resena" :" San Juan de Colonia es un testigo de amor, hasta la últimas consecuencias, hasta dar la vida por quien más ama y a quien tenía por modelo: Jesús Crucificado. Su vida sacerdotal y dominicana está alentada por una espiritualidad de amor entrañable a la Madre de Jesús. Vive su sacerdocio con un testimonio victimal, ya que está fortalecido por un amor.  \n\n   Con San Juan Heer la historia ha sido escasa en datos; pero sí sabemos que nació el Colonia a principios del siglo XVI. Ingresa en plena juventud en el Convento de Santa Cruz de su ciudad natal. Ya sacerdote pide ser destinado a Holanda, pues allí los católicos padecen una dura persecución por parte de los Calvinistas. \n\n   Allí ejerció su apostolado secretamente hasta que es encarcelado junto a una veintena de religiosos: franciscanos, agustinos y sacerdotes seculares. les fuerzan a renegar de la Sagrada Eucaristía y del Papa de Roma. \n\n   Los carceleros les fuerzan a renegar de la Eucaristía y del Papa de Roma. Ante su negativa, son conducidos al suplicio. Allí les desnudan y son colgados durante horas. Más tarde les depositan en el suelo donde les amputan los miembros y les abren el vientre. \n\n   Fueron ahorcados y descuartizados en la ciudad de Briel, la noche entre el 8 y 9 de julio de 1572. Fueron sepultados en la ciudad de Gorichen y sus reliquias se veneran desde 1618 en la iglesia franciscana de Bruselas. Fueron beatificados el 24 de noviembre de 1675. \n\n   San Juan de Colonia es mártir de la fidelidad al Vicario de Cristo. Fue canonizado por el Papa Pío IX el 29 de junio de 1867. San Juan de Colonia es modelo de ecumenismo. "
+        },
+    "fecha2007":{
+        "fecha"  :"20 de Julio ",
+        "nombre" :"San José María Díaz Sanjurjo, Obispo y Mártir. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"En la ciudad de Nam Dinh, en Tonquín, san José María Díaz Sanjurjo, obispo, de la Orden de Predicadores y mártir, que durante la persecución ordenada por el emperador Tu Duc, fue condenado a muerte por quienes odiaban la fe cristiana. \n\n   Fue canonizado el 19 de junio de 1988 por el papa Juan Pablo II junto con los 117 mártires de Vietnam, muertos por la fe entre los años 1745-1862, que habían sido beatificados a lo largo del siglo XX. "
+        },
+
+    "fecha2207":{
+        "fecha"  :"22 de Julio ",
+        "nombre" :"Santa María Magdalena, discípula de Jesús y protectora de la Orden. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"María Magdalena, con su nombre completo, aparece en algunos de los pasajes más significativos del Evangelio, destacándose entre las mujeres que siguen a Jesús (Mt 27,56; Mc 15,47; Lc 8,2), especialmente en el drama de la Pasión (Mc 15,40), al pie de la cruz junto a María, la Madre de Jesús (Jn 19,25), y en el entierro del Señor (Mc 15,47). Igualmente fue la primera en llegar al sepulcro del Señor en la mañana de la Pascua (Jn 20,15) y la primera a quien Jesús se le apareció luego de resucitar (Mt 28,1-10; Mc 16,9; Jn 20,14). De ese modo se convierte en “apóstol” de los apóstoles, al anunciarles la Resurrección de Jesús (Jn 20,17-18).  \n\n  "
+        },        
+    "fecha2407":{
+        "fecha"  :"24 de Julio ",
+        "nombre" :"San José Fernández, Presbítero -Martir. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"En la ciudad de Nam Dinh, en Tonquín, san José Fernández, presbítero de la Orden de Predicadores y mártir, decapitado a causa de su fe en Cristo, siendo emperador Minh Mang. (1775-1838). \n\n   Nació en Ventosa de la Cuesta (Valladolid), en el seno de una familia de labradores. Ingresó en el convento de los dominicos de San Pablo de Valladolid, en 1794, donde hizo el noviciado, profesó y recibió la ordenación sacerdotal (1799). Con motivo de su ordenación sacerdotal efectuó un breve viaje a casa de sus padres, para despedirse ya que marchaba como misionero. \n\n   En 1805, fue enviado a las misiones del Vietnam del Norte, donde llegó a pie, después de un penosísimo viaje que le dejaron profundas huellas en su salud para siempre. Durante 30 años se dedicó a la predicación sobreponiéndose a la disentería que le llevó al borde de la muerte y fue nombrado vicario provincial. Su mansedumbre y humildad ganó muchas almas para Cristo. \n\n   Cuando estalló la persecución del emperador Minh-Manh, en un refugio se encontró con el sacerdote san Pedro Nguyen Ba Tuan, que le ayudó en todo y nunca más se separaron. En 1838 fueron hechos prisioneros; Pedro fue martirizado y a él, le encerraron en una jaula en la que no podía moverse, por lo que se le paralizaron las manos.  \n\n   Tuvo un gran alivio cuando se encontró con los obispos dominicos santos fray Clemente Ignacio Delgado y fray Domingo de Henares encarcelados también en las mismas mazmorras. Inmóvil en aquella jaula, José cayó en un estado lastimoso a causa del hambre, hasta que un cristiano logró llevarle comida, aunque como tenía paralizada las manos, le tenían que dar de comer. Durante los interrogatorios quisieron que pisaran la cruz a lo cual él se negó. Fue sentenciado y después de una dolorosa pasión, le decapitaron. "
+        },
+    "fecha2807":{
+        "fecha"  :"28 de Julio ",
+        "nombre" :"San Melhor García Sampedro, Obispo. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"En Nam Dinh, de Tonquín (hoy Vietnam), san Melchor García Sampedro, obispo, de la Orden de Predicadores y mártir, encerrado primero por ser cristiano en una estrechísima cárcel, y después, por orden del emperador Tu Duc, materialmente despedazado (1858).  \n\n  Tras ser ejecutado monseñor Sanjurjo, García Sampedro, su sucesor, es detenido el 8 de julio de 1858 en Kieu-Lao y conducido cargado de cadenas a Nam-Dinh, capital de la provincia, donde se le somete a incontables y crueles tormentos, torturas y tentaciones. Pero se mantiene inquebrantable en su fe, por lo que es despedazado públicamente el día 28 del mismo mes y año.  \n\n  Repatriados treinta años después sus restos a Oviedo, donde se celebran solemnes honras fúnebres el 28 y 29 de abril de 1889, son trasladados a la capilla del Rey Casto de la catedral ovetense, en la actualidad se encuentran en la capilla de Nuestra Señora de Covadonga en la misma catedral."
+        }, 
+        
+     "fecha0108":{
+        "fecha"  :"01 de Agosto ",
+        "nombre" :"Santo Domingo Hanh, Presbítero-Mártir. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Domingo Nguyen Van Hanh, llamado también Dieu o Dien, había nacido en Nghe-Anh y había sido acogido por el santo obispo Clemente Ignacio Delgado siendo muy joven para que sirviera a la misión. Sus buenas cualidades y actitudes le hacían apto para el sacerdocio y el joven fue aceptado para prepararse al mismo, pero sintió la vocación religiosa y pidió ser admitido en la Orden de Predicadores, en la que hizo el noviciado y pronunció los votos religiosos el 22 de agosto de 1826. Posteriormente completó sus estudios y fue ordenado sacerdote, ejerciendo con gran celo desde entonces su ministerio. Llegada la persecución se escondió, pero fue traicionado por dos personas falsas amigas y fue capturado el 8 de junio de 1838. Encerrado en la cárcel de Nam-Dinh, se le intimó en numerosas ocasiones para que apostatara y se le aplicó varias veces el tormento de los azotes, derramando abundante sangre, pero sin que nunca titubeara o mostrara la menor debilidad en la profesión de la fe. Por fin fue juzgado y condenado a muerte el 28 de junio de aquel mismo año y quedó en la cárcel a la espera de la confirmación real de la condena de muerte, siendo ejecutado cuando ésta llegó. "
+        }, 
+     "fecha0208":{
+        "fecha"  :"02 de Agosto ",
+        "nombre" :"Beata Juana de Aza, Madre de N.P Sto. Domingo.  ", 
+        "fiesta" :"M.O. ",
+        "resena" :"Jordán de Sajonia en su Libellus menciona a Félix como padre y a Juana como madre de santo Domingo. Descendía de una noble familia castellana. Tuvo tres hijos sacerdotes: Antonio, Manés y Domingo, siendo este último el de su predilección: esperado en oración y preanunciado en sueños como inquieto cachorro con una antorcha en su misma boca para iluminar e incendiar el mundo. Fue mujer —así lo atestigua Rodrigo de Cerrato— «llena de fe; honrada, honesta, prudente, muy compasiva de los pobres y afligidos y que gozaba de buena fama entre todas las mujeres de aquella tierra.» Murió a comienzos del siglo XIII. Fue sepultada en Caleruega (Burgos), luego trasladada a la iglesia de san Pedro en Gumiel de Izán y después a Peñafiel y actualmente se venera otra vez en Caleruega. León XII confirmó su culto el día 1 de octubre de 1828. "
+        },           
+     "fecha0808":{
+        "fecha"  :"08 de Agosto ",
+        "nombre" :"Santo Domingo de Guzmán, Presbítero-Fundador de la O.P. ", 
+        "fiesta" :"Solemnidad ",
+        "resena" :"Memoria de santo Domingo, presbítero, que siendo canónigo de Osma se hizo humilde ministro de la predicación en los países agitados por la herejía albigense y vivió en voluntaria pobreza, hablando siempre con Dios o acerca de Dios. Deseoso de una nueva forma de propagar la fe, fundó la Orden de Predicadores, para renovar en la Iglesia la manera apostólica de vida, mandando a sus hermanos que se entregaran al servicio del prójimo con la oración, el estudio y el ministerio de la Palabra. Su muerte tuvo lugar en Bolonia, el día seis de agosto (1221). "
+        }, 
+     "fecha1208":{
+        "fecha"  :"12 de Agosto ",
+        "nombre" :"San Alejando Longo, Presbítero-Mártir. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Fray Alessandro Longo, el fraile cuyo martirio aparece documentado, nació en Otranto hacia 1425 y se hizo fraile en el convento de Lecce o de Nardó. Fue ordenado sacerdote en Bolonia el 30 de mayo de 1450. En 1451 fue nombrado “Maestro de estudios” en el estudio general de Santo Domingo de Nápoles. Fundador en 1458 del convento di Otranto, en 1474 obtiene del Maestro de la Orden la facultad de dar el hábito dominicano y de recibir a la profesión frailes y hermanas. En 1475 fue asignado definitivamente a Otranto para organizar y consolidar el naciente convento. Dando muestras de una gran apertura mental fue capaz de elaborar una cultura refinada que sintetiza la tradición griega de su tierra natal con la tradición latina aprendida en las escuelas de Bolonia y de Nápoles. Sabemos que es el autor de un comentario a las comedias de Aristófanes. "
+        }, 
+     "fecha1408":{
+        "fecha"  :"14 de Agosto ",
+        "nombre" :"San Francisco Shoyemon, Hermano cooperador. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"En Nagasaki en Japón, Santos Mártires Domingo Ibáñez de Erquiza, sacerdote de la Orden de Predicadores, y Francisco Shoyemon, novicio de la misma Orden y catequista, ejecutados por odio al nombre de Cristo bajo el comandante supremo Tokugawa Yemitsu. \n\n  De Francisco se desconoce la fecha y el lugar de su nacimiento, pero se sabe que fue catequista y compañero del padre Domingo Ibáñez desde su llegada al Japón. Fue un apoyo incondicional para el misionero no sólo porque le enseño la lengua, sino también en la preparación de los catecuménos e incluso en la predicación de la palabra. Parece que llegó a hermano cooperador dominico. \n\n  Compartió con el misionero la cárcel de Nagayo desde su arresto en 1633 y, estando ya en prisión, recibió el hábito de de los hermanos cooperadores e inició su noviciado que culminaría con la muerte. Murió en el tormento de la horca y la hoya, su cuerpo fue descuartizado y reducido a cenizas y esparcido en el mar. "
+        }, 
+     "fecha1508":{
+        "fecha"  :"15 de Agosto ",
+        "nombre" :"Asunción de la Bienaventurada Virgen María. ", 
+        "fiesta" :"Solemnidad ",
+        "resena" :"La fiesta de la Asunción de la Santísima Virgen María, se celebra en toda la Iglesia el 15 de agosto. Esta fiesta tiene un doble objetivo: La feliz partida de María de esta vida y la asunción de su cuerpo al cielo. \n\n  “En esta solemnidad de la Asunción contemplamos a María: ella nos abre a la esperanza, a un futuro lleno de alegría y nos enseña el camino para alcanzarlo: acoger en la fe a su Hijo; no perder nunca la amistad con él, sino dejarnos iluminar y guiar por su Palabra; seguirlo cada día, incluso en los momentos en que sentimos que nuestras cruces resultan pesadas. María, el arca de la alianza que está en el santuario del cielo, nos indica con claridad luminosa que estamos en camino hacia nuestra verdadera Casa, la comunión de alegría y de paz con Dios”. Homilía de Benedicto XVI (2010) "
+        },           
+     "fecha1708":{
+        "fecha"  :"17 de Agosto ",
+        "nombre" :"San Jacinto de Polonia, Presbítero. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"En Cracovia, en Polonia, san Jacinto, presbítero de la Orden de Predicadores, que fue designado por santo Domingo para propagar la Orden en aquella nación y, teniendo por compañeros al beato Ceslao y a Enrique Germánico, predicó el Evangelio en Bohemia y Silesia (1257). "
+        }, 
+     "fecha1808":{
+        "fecha"  :"18 de Agosto ",
+        "nombre" :"Beato Manes de Guzmán, Presbítero- Hno de Sto. Domingo. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"Nace en Caleruega hacia el año 1168. Es el segundo de los hijos de Don Félix de Guzmán y de Doña Juana de Aza. Recibe las primeras enseñanzas de sus padres y de su tío Don Gonzalo de Aza en Gumiel de Izán. Ordenado Sacerdote, ingresa en el Monasterio Cisterciense de Gumiel de Izán. Enterado del trabajo e ideales de su hermano Domingo en el Sur de Francia, se incorpora a su labor apostólica, siendo pieza importante en la realización de sus proyectos. \n\n   El 15 de agosto del 1217 sale con otros compañeros hacia París donde funda el Convento de Santiago. Era tenido como religioso ejemplar; al celo por la salvación de las almas unía un profundo espíritu de contemplación. En 1219 es nombrado Capellán y director espiritual del convento de Dominicas contemplativas de Madrid. En 1234 se traslada a Caleruega para levantar una pequeña Ermita en honor de su hermano Domingo recientemente canonizado. Muere en Caleruega y su cuerpo se traslada al panteón Familiar en Gumiel de Izán. El Papa Gregorio XVI lo declara Beato. "
+        }, 
+     "fecha2308":{
+        "fecha"  :"23 de Agosto ",
+        "nombre" :"Santa Rosa de Lima, Virgen. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"Nació en Lima (Perú) el año 1586; cuando vivía en su casa, se dedicó ya a una vida de piedad y de virtud, y, cuando vistió el hábito de la tercera Orden de santo Domingo, hizo grandes progresos en el camino de la penitencia y de la contemplación mística. Murió el día 24 de agosto del año 1617. \n\n   Isabel Flores de Oliva conocida como Santa Rosa de Lima,es una santa peruana, hija de Gaspar Flores, arcabucero español y de María de Oliva. Nace el 20 de abril de 1586, fecha más probable y casi segura (otros mencionan el 30 de abril) ya que es la fecha mencionada por el primero de los biógrafos de Rosa, Fray Pedro de Loaiza (su confesor también) y por sus padres como consta en el Proceso Ordinario, interrogatorio que realizaron las autoridades religiosas sobre la vida de Rosa. Fue bautizada el 25 de mayo de 1586 en la Parroquia de San Sebastián, en Lima por el sacerdote Antonio Polanco, sus padrinos fueron Hernando de Valdés y María Orosco. \n\n  Su infancia fue común y nada llamativa, su compañero de juego fue su hermano Fernando el cual siempre la apoyó y ayudó. A los doce años se mudó con su familia hacia Quives, un pueblo a 60 kilómetros de Lima ubicado en el Valle Chillón. Es aquí donde ella recibirá la confirmación de manos de otro santo católico, Santo Toribio de Mogrovejo, su padrino fue el sacerdote del pueblo Francisco Gonzáles. Es en Quives donde al parecer empezó con sus mortificaciones contrayendo un reuma muy fuerte con consecuencias dolorosas para su recuperación que ella ocultaba a su madre. \n\n  Regresó a Lima con su familia ya siendo una joven. Debido a problemas económicos de la familia, trabajaba el día entero en el huerto y solía bordar con gran esmero para diferentes familias de la Ciudad y así ayudar al sostenimiento de su hogar. \n\n  A pesar de todo, se encontraba conforme con su forma de vida y no hubiera tratado de cambiarla si no hubiera sido por la insistencia de sus padres a casarla. Rosa resistió por más de diez años y finalmente hizo voto de virginidad ante la imagen del 'doctorcito' para confirmar su resolución. \n\n  Al cabo de unos años ingresó a la orden de santo Domingo de Guzmán a imitación de Catalina de Siena. \n\n  A partir de entonces, se recluyó prácticamente en la Ermita que ella misma construyó, con ayuda de su hermano Fernando, en un extremo del huerto de su casa. Sólo salía para visitar al Templo de Nuestra Señora del Rosario y atender las necesidades espirituales de los indígenas y los negros de la ciudad. También atendía a muchos enfermos que se acercaban a su casa buscando ayuda y atención, creando una especie de enfermería en su casa. "
+        }, 
+     "fecha2808":{
+        "fecha"  :"28 de Agosto ",
+        "nombre" :"San Agustín, Obispo-Doctor de la Iglesia. ", 
+        "fiesta" :"Fiesta ",
+        "resena" :"Memoria de san Agustín, obispo y doctor eximio de la Iglesia, el cual, después de una adolescencia inquieta por cuestiones doctrinales y libres costumbres, se convirtió a la fe católica y fue bautizado por san Ambrosio de Milán. Vuelto a su patria, llevó con algunos amigos una vida ascética y entregada al estudio de las Sagradas Escrituras. Elegido después obispo de Hipona, en África, siendo modelo de su grey, la instruyó con abundantes sermones y escritos, con los que también combatió valientemente contra los errores de su tiempo e iluminó con sabiduría la recta fe (430). "
+        }, 
+
+     "fecha0509":{
+        "fecha"  :"05 de Septiembre ",
+        "nombre" :"Aniversario de los amigos y bienhechores. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Celebración en agradecimiento por los amigos y bienhechores difuntos de la Orden de Predicadores, por la amistad y ayuda preciosas de tantas personas que nos acompañan en nuestra tarea evangélica con su amistad y con sus bienes.  \n\n  La pobreza evangélica querida por nuestro Padre santo Domingo como salvaguarda de la predicación de la Orden, hace que debamos contar con la amistad y ayuda preciosas de tantas personas que nos acompañan en nuestra tarea evangélica con su amistad y con sus bienes. A todos ellos queremos recordar con agradecimiento en este aniversario, mediante esta celebración en la que reunimos a nuestros amigos y bienhechores difuntos, que por diversos motivos estuvieron unidos con la Orden. "
+        },           
+     "fecha1009":{
+        "fecha"  :"10 de Septiembre ",
+        "nombre" :"Beatos Alfonso Navarrete, presbítero y comp. martires. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"En Omura, en Japón, beatos mártires Alfonso Navarrete, de la Orden de Predicadores, Fernando de San José de Ayala, de la Orden de los Ermitaños de San Agustín, y León Tanaka, religioso de la Compañía de Jesús, que fueron degollados a causa de la fe cristiana, por decisión del supremo mandatario Hideta († 1617). "
+        }, 
+     "fecha1809":{
+        "fecha"  :"18 de Septiembre ",
+        "nombre" :"San Juan Macías, Hermano cooperador. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"Nació en Ribera del Fresno (Badajoz) el año 1585. Quedó huérfano a los cuatro arlos y desde muy niño fue dedicado al oficio de pastor, cuando ya su vida estaba marcada per una primera educación en familia llena de especial devoción a la Virgen María, especialmente mediante el rezo del rosario. Emigrante hacia América del Sur, en una nave mercante llegó a Cartagena de Indias (Colombia) y más tarde a Lima. Allí pidió el hábito de hermano cooperador en el convento de Santa María Magdalena en 1622 cuando contaba treintaisiete años. Su vida se distingue por una gran pobreza, humildad y caridad. Fue portero del convento durante veintidós años y desde ese puesto ejerció una increíble obra de beneficencia material y espiritual con sus limosnas y con su rosario, ofrecido por los pecados propios, por los de los demás y en sufragio por las almas del purgatorio. Tuvo también mucho influjo en la ciudad con sus consejos. Vivió en gran amistad y comunicación con san Martin de Porres y santa Rosa de Lima. También, como san Martin, sufrió con valentía injurias y calumnias por su caridad heroica con los necesitados. Murió en Lima el 15 de septiembre de 1645 y su cuerpo se venera en la basílica del Rosario. Fue beatificado por Gregorio XVI en 1813 y canonizado por Pablo VI el 28 de septiembre de 1975. "
+        }, 
+     "fecha2409":{
+        "fecha"  :"24 de Septiembre ",
+        "nombre" :"San Antonio González, presbítero -Mártir. ", 
+        "fiesta" :"M.L. ",
+        "resena" :" "
+        }, 
+     "fecha2809":{
+        "fecha"  :"28 de Septiembre ",
+        "nombre" :"Santo Domingo Ibáñez de Erquicia, presbítero y comp. Martires. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"En Nagasaki, de Japón, santos mártires Domingo Ibáñez de Erquicia, presbítero de la Orden de Predicadores, y Francisco Shoyemon, novicio en la misma Orden y catequista, que, en tiempo del Emperador Tokugawa Yemitsu, recibieron la muerte por odio al nombre cristiano (1633). \n\n  DOMINGO IBÁÑEZ DE ERQUICIA, español, sacerdote dominico. Nace en Régil (San Sebastián), hijo de la Provincia de España hasta su afiliación a la Provincia del Rosario. En Manila enseña en el Colegio de Santo Tomás y predica el Evangelio en diferentes lugares de Filipinas. Pasa a Japón en 1623, donde trabaja clandestinamente. Denunciado por un cristiano apóstata, es encarcelado y ajusticiado. Desempeñó un importante papel, como Vicario provincial de la misión. Se conserva una parte de su epistolario. Edad, 44 años. \n\n  FRANCISCO SHOYEMON, japonés, cooperador dominico. Compañero de apostolado del P. Ibáñez de Erquicia. Arrestado en 1633, toma el hábito dominicano en la cárcel. Es ajusticiado junto a su padre espiritual. \n\n  Los dos forman parte de los 16 mártires en Japón que fue beatificado por S.S. Juan Pablo II el 18 de febrero de 1981 y luego canonizado el 18 de octubre de 1987. "
+        }, 
+
+     "fecha0410":{
+        "fecha"  :"04 de Octubre ",
+        "nombre" :"San Francisco de Asís, Diacono Fundador de las Ordenes Franciscanas.", 
+        "fiesta" :"Fiesta ",
+        "resena" :"Nacido en 1182 en Asís, era hijo de Pedro Bernardone y de Mona Pica. Hasta los 24 años llevó una vida muy disipada, pero un día cayó enfermo y decidió cambiar, aunque pronto lo olvidó. Por designios eternos, a San Francisco le cupo la dicha de iniciar la reforma de la Iglesia. Entró un día en la Iglesia de San Damián y oyó la voz de Cristo, a través de un crucifijo, diciéndole: 'Francisco, repara mi Iglesia, que, como ves, amenaza ruina'. El creía que se trataba de aquella Iglesia material y casi derruida y él se dispuso de inmediato a la tarea. Pero no era esa tarea la que Dios le encomendaba, sino otra mejor pero más difícil y de gran trascendencia: reparar la Iglesia Espiritual de Cristo que, en aquel tiempo, amenazaba ruina. ¿Cómo lo hizo? Con humildad y oración. A partir de aquel entonces Francisco ya no sería el mismo. \n\n  Su padre, al ver su cambio, lo recoge y lo encierra en casa. Francisco tira por la ventana los paños de su padre, que lo arrastra ante el Obispo para castigarle. Y Francisco dice: 'En adelante sólo diré, 'Padre Nuestro que estás en los Cielos', no 'padre Bernardone', pues le devuelvo dinero y vestidos'. Y se marchó. \n\n  Su vocación surgió en la fiesta de San Matías. Al oír en el Evangelio que los servidores de Cristo no debían poseer oro ni plata, ni alforja, ni calzado ni dos túnicas, exclamó: 'Esto es lo que yo buscaba y lo que quiero cumplir'. Y se decidió a seguir en todo y al pie de la letra el Evangelio y los pasos de Nuestro Señor. Le siguieron discípulos y una noble doncella, Clara. \n\n  Este fue el mensaje de Francisco: reproducir en todo la vida de Jesús, vivir su pobreza, imitar sus pasos y doctrinas. 'El mismo Dios me reveló, -dice su Testamento- que debía vivir según la norma del santo Evangelio'. Según las 'Florecillas', Cristo quiso renovar su Vida y Pasión en Francisco. El eligió doce compañeros como Jesús y, al morir, mandó traer unos panes, los bendijo y los repartió. \n\n  En Greccio comenzó la devoción del 'Pesebre'. En 1224, un ángel seráfico le imprimió con indescriptible hermosura las cinco llagas de las manos, los pies y el costado de Cristo, viviendo en sus últimos años una vida realmente crucificada. Tuvo un gran amor a la Virgen, amor que extendió a todos los hombres. Mimaba a los enfermos y besaba a los leprosos. Ampliaba también el amor a los animales y les hablaba con cariño. Vivía y recomendaba la oración prolongada, la obediencia, la hospitalidad, la alegría -¡la perfecta alegría!- y la humildad, hasta el punto de no querer pasar de diácono. Era enemigo de discutir y le rogaba a Dios: '¡Señor, hazme instrumento de tu paz!' Amaba sobre todo la santísima pobreza, la Dama Pobreza, tanto que pidió al Papa en Roma les concediera ese género de vida. \n\n  Casi ciego ya por la mucha penitencia y el continuo llorar, vio que le llegaba la muerte. 'Sea bienvenida mi hermana la muerte', exclamó. Murió en la Porciúncula, el 4 de octubre de 1226, a los 44 años de edad. Fue canonizado dos años después en Asís por el Papa Gregorio IX. Dos años más tarde fueron trasladados sus restos a su Basílica, tan hermosamente decorada por los frescos de Giotto. "
+        }, 
+
+     "fecha0510":{
+        "fecha"  :"05 de Octubre ",
+        "nombre" :"Beato Raimundo de Capua, presbítero. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"En Nüremberg, de Baviera, beato Raimundo delle Vigne o de Capua, presbítero de la Orden de Predicadores, que fue prudente moderador espiritual de santa Catalina de Siena, de la cual compuso una fiel biografía (1399). \n\n  Fecha de beatificación: 15 de mayo de 1899 por el Papa León XIII. "
+        }, 
+
+     "fecha0610":{
+        "fecha"  :"06 de Octubre ",
+        "nombre" :"Beato Bartolomé Longo, Seglar de la Tercera Orden. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Beato Bartolomé Longo (1841-1926). Seglar de la Tercera Orden de Santo Domingo, abogado, casado y dedicado a acoger adolescentes incorregibles. \n\n  Bartolomé al quedarse viudo fundó la Congregación dominicana de Hijas del Santísimo Rosario, que cuidaban de un orfanato para niñas y un colegio para niños presos encomendados para los Hermanos de las Escuelas Cristianas. Abanderó el rezo del Rosario, difundiendo la devoción desde el santuario con una revista y otros varios medios. Honrado por la Santa Sede con diversas condecoraciones, procuró en todo momento ser un hijo de la Iglesia y un buen cristiano. No le faltaron dificultades, dolores, incomprensiones y fuertes ataques que sobrellevó con gran fortaleza de almal. Murió en Pompeya y fue enterrado en el propio santuario."
+        }, 
+
+     "fecha0710":{
+        "fecha"  :"07 de Octubre ",
+        "nombre" :"Nuestra Señora la Virgen del Rosario. ", 
+        "fiesta" :"Fiesta ",
+        "resena" :"Su fiesta fue instituida por el Papa san Pío V el 7 de Octubre, aniversario de la victoria obtenida por los cristianos en la Batalla naval de Lepanto (1571), atribuida a la Madre de Dios, invocada por la oración del rosario. La celebración de este día es una invitación para todos a meditar los misterios de Cristo, en compañía de la Virgen María, que estuvo asociada de un modo especialísimo a la encarnación, la pasión y la gloria de la resurrección del Hijo de Dios. \n\n  Desde el principio de la Iglesia, los cristianos rezan los salmos como lo hacen los judíos. Más tarde, en muchos de los monasterios se rezan los 150 salmos cada día. Los laicos devotos no podían rezar tanto pero querían según sus posibilidades imitar a los monjes. Ya en el siglo IX había en Irlanda la costumbre de hacer nudos en un cordel para contar, en vez de los salmos, las Ave Marías. Los misioneros de Irlanda más tarde propagaron la costumbre en Europa y hubieron varios desarrollos con el tiempo. "
+        }, 
+
+     "fecha0910":{
+        "fecha"  :"09 de Octubre ",
+        "nombre" :"San Luis Bertrán, presbítero. ", 
+        "fiesta" :"M.O. ",
+        "resena" :"Luis nació en Valencia de nobles y piadosos padres e1 1 de enero de 1526. A los dieciséis años, contra la voluntad de sus padres, abandona la casa paterna para dirigirse a Santiago de Compostela. De vuelta en casa, por la oposición de sus padres, se le negó la entrada en la Orden que había solicitado, pero aun con eso iba a escondidas a las reuniones del capítulo conventual para oír sus pláticas. Finalmente pudo tomar el hábito el 22 de agosto de 1544 en el convento de Predicadores de Valencia. Se dio con todo entusiasmo a vivir el ideal de la Orden, destacando en seguida por sus penitencias, sus horas de vela ante el Santísimo y por la radiante inocencia de vida. Ordenado presbítero en 1547 era ya una verdadera encarnación de la Vida de la Orden: «Idea factus Ordinis» y ya en 1549 fue nombrado maestro de novicios y estudiantes.  \n\n   Pero también había heredado de santo Domingo el ímpetu misionero, especialmente en aquellos años de la máxima expansión del apostolado en todo el Nuevo Mundo y por ello pidió ser enviado en 1562 a Nueva Granada, zona de la actual Colombia. Allí permaneció unos siete años predicando con la palabra y el ejemplo y con estrepitosos milagros, llevando eficazmente la luz del Evangelio. Se destacó en esos años por su esfuerzo en procurar la implantación sólida de la fe, desarraigando con eficacia los cultos paganos. No consta de su preocupación social y sí bien claramente de su comportamiento totalmente al estilo de los apóstoles en vida y milagros. También en él, dado su modo de ser, tuvieron mucho influjo los sentimientos de fray Bartolomé de las Casas, como ya notaron sus primeros biógrafos. Renunciando al priorato de Santa Cruz de Bogotá vuelve a Valencia en 1569, dedicándose de nuevo a la actividad de dirección de los novicios, al apostolado directo, a escribir y continuar con gran esfuerzo el camino de la santidad en el «temor» de Dios. Tuvo correspondencia con santa Teresa de Jesús y la animó en su reforma, ya que el mismo san Luis era un fraile «reformado». Fue amigo entre otros de san Juan de Ribera, arzobispo de Valencia. Fue varias veces prior y la última del Real Convento de Predicadores en 1575. Murió en este convento el 9 de octubre de 1581. Su cuerpo que se veneraba en Valencia fue quemado en la guerra de 1936. Es patrono de los novicios dominicos. Fue beatificado por Paulo V e1 19 de julio de 1608 y canonizado por Clemente X el 12 de abril de 1671. Alejandro VIII lo nombró patrono principal de Colombia en 1690. "
+        }, 
+
+     "fecha1410":{
+        "fecha"  :"14 de Octubre ",
+        "nombre" :"Beata Marie Poussepin, Virgen y fundadora de las Dominicas de la Presentación. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Virgen y Fundadora del Instituto de las Hermanas Dominicas de la Caridd y de la Presentación de la Santísima Virgen María.  \n\n   En el lugar de Sainville, en la región de Chartres, en Francia, beata María Poussepin, virgen, fundadora del Instituto de las Hermanas Dominicas de la Caridad y de la Presentación de la Santísima Virgen María, para ayudar a los pastores de almas en la formación de las jóvenes y para la asistencia de pobres y enfermos. \n\n  Fecha de beatificación: 20 de noviembre de 1994 por Su Santidad Juan Pablo "
+        }, 
+
+     "fecha1510":{
+        "fecha"  :"15 de Octubre ",
+        "nombre" :"Santa Magdalena de Nagasaki, Virgen de la Tercera Orden.  ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Magdalena de Nagasaki (Nagasaki no Magudarena en japonés) (Nagasaki, Japón 1611 - octubre de 1634) fue una santa virgen y mártir venerada por la Iglesia Católica. Monja de la orden terciaria, con solo 23 años sufrió martirio. Canonizada por el papa Juan Pablo II en 1987 "
+        }, 
+
+     "fecha1910":{
+        "fecha"  :"19 de Octubre ",
+        "nombre" :"San Lucas del Espíritu Santo, presbítero -Mártir. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"San Lucas del Espíritu Santo. Carracedo de Vidriales (Zamora), 18.X.1594 − Nagasaki (Japón), 19.X.1633. Sacerdote dominico (OP), mártir y santo.  \n\n   Tomó el hábito dominicano y profesó (2 de junio de 1611) en el convento de Santo Domingo de Benavente.Se alistó para evangelizar en Oriente. Al desembarcar en Kyûshû, junto con el padre Domingo Ibáñez de Erquicia, el negro panorama de la persecución anticristiana se cernía sobre todo en Japón, y los misioneros tuvieron que disfrazarse de comerciantes españoles para poder internarse en el país.  \n\n   En 1633 en Nagasaki, fue encarcelado hasta que, expuesto a las burlas del pueblo, fue llevado a caballo con una soga al cuello y un cartel que explicaba el motivo del castigo: 'ser religioso y haber predicado la ley evangélica'. Luego sufrió el suplicio de la horca y hoya y tuvo que escuchar las muchas ofertas y promesas que le hicieron los esbirros. Tras varias horas de tormento, fue extraído de la hoya para ver si renunciaba a su fe cristiana y así poder recibir algún premio. Se corrió entonces en la ciudad el rumor de que el padre Lucas había renegado de la fe, pero varios portugueses y un español que corrieron a la prisión para cerciorarse pudieron hablar con él por una ventana y desmintieron el bulo. El misionero se mantuvo siempre firme en la fidelidad a Cristo y declaró su opción por el martirio. Mientras le era aplicado el mismo castigo durante largas horas, cayó desvanecido y fue rematado a golpes de bastón (19 de octubre de 1633). Su cadáver fue reducido a cenizas que luego fueron arrojadas al mar. Juan Pablo II lo elevó al honor de los altares con el título de santo (1987), y su fiesta se celebra el 28 de septiembre. "
+        }, 
+     "fecha2210":{
+        "fecha"  :"22 de Octubre ",
+        "nombre" :"Aniversario de la dedicación de la Iglesia conventual.  ", 
+        "fiesta" :"Solemnidad ",
+        "resena" :"El calendario dominicano nos propone esta celebración, las iglesias pueden estar solemnemente consagradas o únicamente bendecidas. Como la mayoría de las fechas de bendición de los templos se han perdido, la orden propone este día para que de forma solemne se recuerde la consagración del templo propio. \n\n   Nosotros sabemos que Jesucristo está presente para su Iglesia, y esta verdad, esta realidad, esta doctrina nos ayuda a vislumbrar por qué siquiera celebramos la Dedicación a una Iglesia, es decir, la construcción literal de una iglesia en sí misma y todo lo que esto representa para un cristiano. "
+        }, 
+
+     "fecha0111":{
+        "fecha"  :"01 de Noviembre ",
+        "nombre" :"Todos los Santos. ", 
+        "fiesta" :"Solemnidad ",
+        "resena" :"El Día de Todos los Santos es una solemnidad cristiana que tiene lugar el 1 de noviembre para las iglesias católicas de rito latino, y el primer domingo de Pentecostés en la Iglesia ortodoxa y las católicas de rito bizantino. No se debe confundir con la Conmemoración de los Fieles Difuntos. \n\n  En este día la Iglesia celebra fiesta solemne por todos los difuntos que, habiendo superado el purgatorio, se han santificado totalmente, han obtenido la visión beatífica y gozan de la vida eterna en la presencia de Dios. Por eso es el día de «todos los santos». No se festeja solo en honor a los beatos o santos que están en la lista de los canonizados y por los que la Iglesia celebra en un día especial del año; se celebra también en honor a todos los que no están canonizados pero viven ya en la presencia de Dios en su Iglesia triunfante. "
+        }, 
+     "fecha0311":{
+        "fecha"  :"03 de Noviembre ",
+        "nombre" :"San Martin de Porres, Hermano cooperador. ", 
+        "fiesta" :"Fiesta ",
+        "resena" :"San Martín de Porres es el santo de la humildad. Popularmente conocido como Fray Escoba, este dominico originario de Lima, Perú, fue el primer mestizo canonizado por la Iglesia. Por medio de su sencillez y servicio logró superar las diferencias y unir a las tres culturas que convivían en su época, a pesar de los conflictos que dificultaban la coexistencia en la sociedad limeña del siglo XVII. \n\n  San Martín de Porres. Fue un mulato, nacido en Lima, capital del Perú, en el 9 de diciembre de 1579. Era hijo natural del caballero español Juan de Porres y de una india panameña libre, llamada Ana Velásquez. Martín heredó los rasgos y el color de la piel de su madre, lo cual vio don Juan de Porres como una humillación. De un natural sensible y bondadoso, y movido por su amor a Jesucristo crucificado, estuvo dominado por la compasión hacia todos los que sufrían: enfermos, pobres, abandonados y marginados. \n\n   Fue el primer santo negro de América y es Patrón universal de la paz. Es conocido también como el Santo de la escoba por ser representado con una escoba en la mano como símbolo de su humildad. "
+        }, 
+     "fecha0711":{
+        "fecha"  :"07 de Noviembre ",
+        "nombre" :"Todos los Santos de la Orden. ", 
+        "fiesta" :"Fiesta ",
+        "resena" :"Frailes, monjas, hermanas, laicos... son muchos los miembros de la Orden de Predicadores que a lo largo de los siglos han sido testigos vivos del carisma dominicano y ejemplo para los que caminamos tras sus pasos. En muchos de ellos la Iglesia ha reconocido el testimonio evangélico de su vida y los ha beatificado o canonizado. El número de santos y beatos de la Orden es de varios centenares, de los que un gran número fueron mártires en Extremo Oriente. "
+        }, 
+     "fecha0811":{
+        "fecha"  :"08 de Noviembre ",
+        "nombre" :"Aniversario de todos los hermanos y hermanas difuntos de la Orden. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"En la celebración de hoy la Orden de Predicadores recuerda a los que, habiéndose dormido en el Señor, ya nos precedieron marcados por el bautismo, de modo que podamos ayudarlos en este aniversario de todos ellos.  \n\n   Nuestra Orden, pueblo de bautizados que caminan hacia Dios entregados a la misión apostólica, habiendo celebrado ayer la gloriosa festividad de los hermanos y hermanas que en el cielo unidos gozan plenamente de la gloria de Cristo, en la celebración de hoy recuerda a los que, habiéndose dormido en el Señor, ya nos precedieron marcados por el bautismo, de modo que podamos ayudarlos en este aniversaio de todos ellos. "
+        }, 
+     "fecha1511":{
+        "fecha"  :"15 de Noviembre ",
+        "nombre" :"San Alberto Magno, Obispo y Doctor de la Iglesia. ", 
+        "fiesta" :"Fiesta ",
+        "resena" :"San Alberto nace en Lauingen (Alemania) en 1193/1206 y muere en Colonia el 15 de noviembre de 1280. Su vida reúne múltiples facetas: científico y teólogo, fraile y místico, obispo y doctor de la Iglesia… Patrono de los científicos, es también considerado uno de los más grandes genios de Occidente y un santo de talla universal, de ahí el apelativo de Magno, que tan solo él ha merecido en el campo del conocimiento. "
+        }, 
+     "fecha2411":{
+        "fecha"  :"24 de Noviembre ",
+        "nombre" :"San Ignacio Delgado, Obispo y Comp. Martires.  ", 
+        "fiesta" :"M.O. ",
+        "resena" :"San Ignacio es uno de los mártires de Tonkín, hoy Vietnam. Nació en el año 1762 en Zaragoza, España, y su muerte fue el 12 de julio de 1838. Fue misionero incansable, que viajó con veintidós años, teniendo un fino sentido apostólico que le hizo adaptarse a otra cultura con soltura y facilidad. Entre sus especiales dedicaciones, estuvo la formación integral de los jóvenes tonkineses en el seminario. Fue nombrado obispo, y cuando se incrementó la persecución, fue hecho prisionero. Murió a los 75 años en prisión. "
+        }, 
+
+     "fecha0112":{
+        "fecha"  :"01 de Diciembre ",
+        "nombre" :"Beato Juan Vercelli, presbítero. ", 
+        "fiesta" :"M.L. ",
+        "resena" :"Juan Garbella nació a principios del siglo XIII en Mosso Santa María, cerca de Vercelli (Piamonte, Italia). Profesor de derecho en París y Vercelli, fue atraído por la predicación del beato Jordán, entrando en la Orden en 1220. Fue fundador del convento de Vercelli y provincial de Lombardía. \n\n    Elegidosexto Maestro de la Orden en 1264, permaneció en el cargo por voluntad de los capítulos generales durante casi veinte años, siendo dechado de los frailes. Asistió al concilio de Lyon (1274); fue legado del Papa Clemente IV en Italia, Francia y Castilla y renunció al Patriarcado de Jerusalén (1278). \n\n    Consultó frecuentemente a santo Tomás. Fue predicador ferviente de la devoción al santo nombre de Jesús.Murió en Montpellier (Francia) el 30 de noviembre de 1283 y, sepultado en la iglesia de la Orden, sus restos fueron destruidos en las luchas religiosas del siglo XVI. Su culto fue confirmado en 1903. "
+        }, 
+     "fecha0812":{
+        "fecha"  :"08 de Diciembre ",
+        "nombre" :"Inmaculada Concepción de Santa María Virgen. ", 
+        "fiesta" :"Solemnidad ",
+        "resena" :"La Inmaculada Concepción de María es el dogma de fe que declara que por una gracia especial de Dios, ella fue preservada de todo pecado desde su concepción.  \n\n   El dogma fue proclamado por el Papa Pío IX el 8 de diciembre de 1854, en su bula Ineffabilis Deus.  \n\n   '...declaramos, proclamamos y definimos que la doctrina que sostiene que la beatísima Virgen María fue preservada inmune de toda mancha de la culpa original en el primer instante de su concepción por singular gracia y privilegio de Dios omnipotente, en atención a los méritos de Cristo Jesús Salvador del género humano, está revelada por Dios y debe ser por tanto firme y constantemente creída por todos los fieles...' (Pío IX, Bula Ineffabilis Deus, 8 de diciembre de 1854)  \n\n   La Concepción: Es el momento en el cual Dios crea el alma y la infunde en la materia orgánica procedente de los padres. La concepción es el momento en que comienza la vida humana.  \n\n   -María quedó preservada de toda carencia de gracia santificante desde que fue concebida en el vientre de su madre Santa Ana. Es decir María es la 'llena de gracia' desde su concepción. Cuando hablamos de la Inmaculada Concepción no se trata de la concepción de Jesús quién, claro está, también fue concebido sin pecado. "
+        }
+
+}

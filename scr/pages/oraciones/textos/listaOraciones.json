@@ -1,0 +1,354 @@
+{
+    "oracion1":{	
+        "nombre" : "ANGELUS",
+        "v1" : " El ángel del Señor anunció a María",
+        "r1" : "  Y ella concibió por obra y gracia del Espíritu Santo.\n",
+        
+        "v2" : " He aquí la Esclava del Señor,",
+        "r2" : "  Hágase en mí según tu palabra.\n",
+        
+        "v3" : " El Hijo de Dios se hizo hombre",
+        "r3" : "  Y habitó entre nosotros.\n",
+        
+        "v4" : " Ruega por nosotros, Santa Madre de Dios",
+        "r4" : " Para que seamos dignos de alcanzar las promesas de Cristo.\n",
+ 
+		"cuerpo": [
+			"Dios te salve María, llena eres de gracia, el Señor es contigo. Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.\n", 
+            " \n",
+            "Santa María, Madre de Dios, ruega por nosotros, pecadores, ahora y en la hora de nuestra muerte. Amén.\n"
+        ],
+
+        "oremos" : "OREMOS",
+        "oracion" : "Infunde, Señor, tu gracia en nuestros corazones, para que quienes hemos reconocido por el anuncio del Ángel la Encarnación de tu Hijo, Jesucristo; conducidos por su pasión y cruz lleguemos a la gloria de la Resurrección. Por Jesucristo, nuestro Señor. Amén."
+	},
+
+    "oracion2":{	
+        "nombre" : "ANGELUS LATIN",
+        "v1" : " Angelus Domini nuntiavit Mariae",
+        "r1" : " Et concepit de Spiritu Sancto.\n",
+        
+        "v2" : " Ecce Ancilla Domini",
+        "r2" : " Fiat mihi secundum verbum tuum.\n",
+        
+        "v3" : " Et Verbum caro factum est",
+        "r3" : "  Et habitavit in nobis.\n",
+        
+        "v4" : " Ora pro nobis, sancta Dei Genetrix",
+        "r4" : " Ut digni efficiamur promissionibus Christi.\n",
+ 
+		"cuerpo": [
+			"Ave Maria, gratia plena, Dominus tecum,  Benedicta tu in mulieribus, et benedictus fructus ventris tui, Iesus.\n", 
+            " \n",
+            "Sancta Maria, Mater Dei,  ora pro nobis, peccatoribus, nunc et in hora mortis nostrae. Amen.\n"
+        ],
+        
+        "oremos" : "OREMUS",
+        "oracion" : "Gratiam tuam quaesumus, Domine, mentibus nostris infunde: ut qui angelo nuntiante, Christi Filii tui incarnationem cognovimus, per passionem eius et crucem ad resurrectionis gloriam perducamur. Per eumdem Christum Dominum nostrum. Amen"
+    },
+    
+    "oracion3":{	
+        "nombre" : "REINA DEL CIELO ",
+
+		"cuerpo": [
+			"Reina del cielo alégrate, aleluya,\n", 
+            "porque el Señor, a quien mereciste llevar en tu seno, aleluya.\n",
+			"Resucitó como dijo, aleluya.\n", 
+            "Ruega al Señor por nosotros, aleluya.\n"
+        ],
+        
+        "v1" : " Gózate y alégrate, Virgen María, aleluya ",
+        "r1" : " Porque verdaderamente resucitó el Señor, aleluya.\n",
+        
+        "oremos" : "OREMOS",
+        "oracion" : "Oh Dios, que te dignaste alegrar al mundo con la Resurrección de tu Hijo, Jesucristo, Señor nuestro, concédenos que por la intercesión de la Virgen María logremos conseguir la felicidad de la vida eterna. Por Jesucristo, nuestro Señor. Amén."
+	},
+
+    "oracion4":{	
+        "nombre" : "REGINA COELI",
+
+		"cuerpo": [
+			"Regina coeli laetare, alleluia, \n", 
+            "Quia quem meruisti portare, alleluia\n",
+			"Resurrexit, sicut dixit, alleluia \n", 
+            "Ora pro nobis Deum, alleluia. \n"
+        ],
+        
+        "v1" : " Gaudere et laetare, Virgo Maria, alleluia",
+        "r1" : " Quia surrexit Dominus vere, alleluia.\n",
+        
+        "oremos" : "OREMUS",
+        "oracion" : "Deus, qui per resurrectionem Filii tui, Domini nostri Iesu Christi, mundum laetificare dignatus es, praesta, quaesumus, ut per eius Genetricem Virginem Mariam perpetuae capiamus gaudia vitae. Per eumdem Christum Dominum nostrum. Amen."
+	},
+
+    "oracion5":{	
+        "nombre" : "VEN, ESPÍRITU SANTO",
+
+		"cuerpo": [
+			"Ven Espíritu Santo, \n", 
+            "llena los corazones de tus fieles, \n",
+			"y enciende en ellos el fuego de tu amor, \n", 
+            "tú, que con el carisma de las lenguas \n",
+			"reuniste en una misma fe \n", 
+            "a todos los pueblos.\n"
+        ],
+        
+        "v1" : " Envía tu Espíritu, y todo será creado ",
+        "r1" : " Y se renovará la faz de la tierra.\n",
+        
+        "oremos" : "OREMOS",
+        "oracion" : "Oh Dios, que has iluminado los corazones de tus hijos con la luz del Espíritu Santo, concédenos la gracia de ser dóciles a tu Espíritu, para gustar siempre el bien y gozar de su consuelo. Por Jesucristo, nuestro Señor. Amén."
+	},
+
+    "oracion6":{	
+        "nombre" : "VEN, ESPÍRITU DIVINO",
+
+		"cuerpo": [
+			"Ven, Espíritu Divino,\n", 
+            "manda tu luz desde el cielo, \n",
+			"Padre amoroso del pobre;\n", 
+            "don en tus dones espléndido;\n",
+			"luz que penetra las almas;\n", 
+            "fuente del mayor consuelo.\n",
+            "\n",
+			"Ven, dulce huésped del alma,\n", 
+            "descanso de nuestro esfuerzo, \n",
+			"tregua en el duro trabajo,\n", 
+            "brisa en las horas de fuego,\n",
+			"gozo que enjuga las lágrimas\n", 
+            "y reconforta en los duelos.\n",
+            "\n",
+			"Entra hasta el fondo del alma,\n", 
+            "divina luz y enriquécenos.\n",
+			"Mira el vacío del hombre\n", 
+            "si Tú le faltas por dentro;\n",
+			"mira el poder del pecado\n", 
+            "cuando no envías tu aliento.\n",
+            "\n",
+			"Riega la tierra en sequía,\n", 
+            "sana el corazón enfermo,\n",
+			"lava las manchas,\n", 
+            "infunde calor de vida en el hielo,\n",
+			"doma el espíritu indómito,\n", 
+            "guía al que tuerce el sendero.\n",
+            "\n",
+			"Reparte tus siete Dones\n", 
+            "según la fe de tus siervos.\n",
+			"Por tu bondad y tu gracia\n", 
+            "dale al esfuerzo su mérito;\n",
+			"salva al que busca salvarse\n", 
+            "y danos tu gozo eterno. Amén.\n"
+        ]
+        
+    },
+
+    "oracion7":{	
+        "nombre" : "ORACIÓN DE SANTO TOMÁS DE AQUINO PARA ORDENAR SABIAMENTE LA VIDA",
+
+		"cuerpo": [
+            "Dame, Señor y Dios mío,\n", 
+            "que no decaiga sea en la prosperidad o en la adversidad;\n", 
+            "que nada goce o me duela\n", 
+            "sino en lo que me lleve a ti o me separe de ti.\n",  
+            " \n", 
+            "A nadie desee agradar ni a nadie tema disgustar, sino a ti.\n",  
+            "Que me hastíe el gozo de lo que sea sin ti,\n",  
+            "que me deleite el trabajo hecho por ti,\n",  
+            "que me sea penoso todo descanso que sea sin ti.\n",  
+            " \n", 
+            "Concédeme, Señor,\n",   
+            "dirigir constantemente el corazón hacia ti,\n",   
+            "y que en mis fallos sepa dolerme\n",  
+            "con el propósito de la enmienda.\n",  
+            " \n", 
+            "Concédeme, Señor Dios, un corazón vigilante,\n",  
+            "que ninguna curiosidad me aparte de ti,\n",  
+            "noble, que ninguna influencia indigna lo envilezca,\n",  
+            "recto, que ninguna mala intención lo desvíe, \n", 
+            "firme, que ninguna tribulación lo debilite,\n",  
+            "y libre, que ningún afecto violento lo reclame. \n", 
+            " \n", 
+            "Concédeme, Señor Dios mío, \n", 
+            "inteligencia que te conozca, diligencia que te busque, \n", 
+            "sabiduría que te encuentre, conducta que te agrade, \n", 
+            "perseverancia que te espere, \n", 
+            "y confianza de que un día al final te abrazaré. \n", 
+            " \n", 
+            "Tú, que eres Dios y Hombre,  \n", 
+            "que vives y reinas por los siglos de los siglos. Amén.\n"
+        ]
+        
+    },
+
+    "oracion8":{	
+        "nombre" : "ORACIÓN A LA VIRGEN MARÍA",
+
+		"cuerpo": [
+            "Bajo tu amparo nos acogemos,\n", 
+            "Santa Madre de Dios, \n",
+            "No desprecies las oraciones \n",
+            "que te dirigimos en nuestras necesidades,\n", 
+            "antes bien líbranos de todo peligro,\n", 
+            "Oh Virgen gloriosa y bendita.\n" 
+        ],
+        
+        "v1" : "  Pues sois de los pecadores el consuelo y la alegría.",
+        "r1" : " Oh, madre, clemente y pía, ¡escuchad nuestros clamores! \n"
+        
+	},
+
+    "oracion9":{	
+        "nombre" : "ORACIÓN A LA BIENAVENTURADA VIRGEN MARÍA (Santo Tomás de Aquino)",
+
+		"cuerpo": [
+            "Oh santísima y dulcísima Virgen María \n",
+            "Madre de Dios, llena de toda piedad, Hija del Rey de los cielos, \n",
+            "de los ángeles Señora, y de los creyentes Madre.\n",
+            "\n",
+            "A tu bondad sin límite confío, \n",
+            "hoy y todos los días de mi vida, \n",
+            "mi cuerpo, mi alma, y todos mis actos:\n", 
+            "pensamientos, afectos, deseos, obras y palabras,  \n",
+            "mi vida entera y mi muerte: \n",
+            " \n",
+            "de este modo se orientarán al bien por tu favor, \n",
+            "y serán conformes a la voluntad de tu Hijo,  \n",
+            "nuestro Señor Jesucristo; \n",
+            "de este modo serás para mí, oh mi Señora santísima, \n",
+            "mi ayuda y mi consuelo contra los lazos e insidias \n",
+            "del enemigo primero. Amén. \n"
+        ]
+        
+    },
+
+    "oracion10":{	
+        "nombre" : "OH SAGRADO BANQUETE",
+
+		"cuerpo": "¡Oh Sagrado Banquete, en el que Cristo se nos da como alimento!, se renueva la memoria de su pasión, el alma se llena de gracia, y se nos da una prenda de la futura gloria. \n", 
+            
+        "v1" : "  Les diste pan del cielo ",
+        "r1" : " Que contiene en sí todo deleite.\n",
+        
+        "oremos" : "OREMOS",
+        "oracion" : "Señor nuestro Jesucristo, que en este Sacramento admirable nos dejaste el memorial de tu pasión, concédenos venerar de tal modo los sagrados misterios de tu Cuerpo y de tu Sangre, que experimentemos constantemente, en nosotros, el fruto de tu redención. Tú, que vives y reinas por los siglos de los siglos. Amén."
+	},
+
+
+    "oracion11":{	
+        "nombre" : "O SACRUM CONVIVIUM",
+
+		"cuerpo": "¡O Sacrum Convivium, in quo Christus sumitur! Recolitur memoria passionis eius, mens Impletur gratiae et futurae gloriae nobis pignus datur. \n",  
+        
+        "v1" : "  Panem de caelo praestitisti eis",
+        "r1" : " Omne delectamentum in se habentem.\n",
+        
+        "oremos" : "OREMUS",
+        "oracion" : "Deus, qui nobis sub sacramento mirabili passionis tuae memoriam reliquisti, tribuae, quaesumus, ita nos Corporis et Sanguinis tui sacra mysteria venerari, ut redemptionis tuae fructum in nobis iugiter sentiamus. Qui vivis et regnas per omnia saecula saeculorum. Amen."
+	},
+
+  
+    "oracion12":{	
+        "nombre" : "ORACIÓN PARA ANTES DEL ESTUDIO (Santo Tomás de Aquino)",
+
+		"cuerpo": [
+            "Creador Inefable! \n",
+            "Tú, que eres la verdadera fuente \n",
+            "De luz y de sabiduría \n",
+            "Y el principio supremo \n",
+            "Dígnate infundir \n",
+            "Sobre las tinieblas de mi inteligencia \n",
+            "El resplandor de tu \n",
+            "Claridad, apartando de mí la \n",
+            "Doble oscuridad en que he nacido: \n",
+            "El pecado y la ignorancia \n",
+            " \n",
+            "Tú, que haces elocuente la \n",
+            "Lengua de los niños, educa \n",
+            "También la mía e infunde en \n",
+            "Mis labios la gracia de tu bendición \n",
+            " \n",
+            "Dame agudeza para entender, \n",
+            "Capacidad para asimilar, \n",
+            "Método y facilidad para aprender, \n",
+            "Ingenio para interpretar \n",
+            "Y gracia copiosa para hablar. \n",
+            " \n",
+            "Dame acierto al empezar; \n",
+            "Dirección al progresar \n",
+            "Y perfección al acabar. \n",
+            "Tú, que eres verdadero Dios \n",
+            "Hombre que vives y reinas \n",
+            "Por los siglos de los siglos. \n",
+            "Amén \n"
+        ]
+        
+    },
+
+      "oracion13":{	
+        "nombre" : "PANGE LINGUA",
+
+		    "cuerpo": [
+            "Canta, lengua, el misterio del cuerpo glorioso y de la sangre preciosa que el Rey de las naciones, fruto de un vientre generoso, derramó como rescate del mundo. \n",
+            " \n",
+            "Nos fue dado, nos nació de una Virgen sin mancilla; y después de pasar su vida en el mundo, una vez esparcida la semilla de su palabra, terminó el tiempo de su destierro dando una admirable disposición. \n",
+            " \n",
+            "El Verbo hecho carne convierte con su palabra el pan verdadero en su carne, y el vino puro se convierte en la sangre de Cristo. Y aunque fallan los sentidos, basta la sola fe para confirmar al corazón recto en esa verdad. \n",
+            " \n",
+            "Veneremos, pues, inclinados tan gran Sacramento; y la antigua figura ceda el puesto al nuevo rito; la fe supla la incapacidad de los sentidos. \n",
+            " \n",
+            "Al Padre y al Hijo sean dadas alabanza y júbilo, salud, honor, poder y bendición; una gloria igual sea dada al que de uno y de otro procede.  \n",
+            "Amén. \n"
+        ],
+            
+        "v1" : "Les diste el pan del cielo. (T. P. Aleluya) \n",
+        "r1" : "Que contiene en sí todo deleite. (T. P. Aleluya) \n",
+        
+        "oremos" : "OREMOS",
+        "oracion" : "Oh Dios, que en este admirable Sacramento nos dejaste el memorial de tu pasión; te pedimos nos concedas venerar de tal modo los sagrados misterios de tu cuerpo y de tu sangre, que ex­pe­ri­mentemos cons­tan­te­mente el fruto de tu redención. Que vives y reinas por los siglos de los siglos. Amén.\n"
+	},
+
+        "oracion14":{	
+        "nombre" : "PANGE LINGUA (Latin)",
+
+		    "cuerpo": [
+            "Pange, língua, gloriósi Córporis mystérium, San­gui­nísque pretiósi, quem in mundi prétium, fructus ventris generósi Rex effúdit géntium. \n",
+            " \n",
+            "Nobis datus, nobis natus ex intácta Vírgine, et in mundo conversátus, sparso verbi sémine, sui moras incolátus miro cláusit órdine. \n",
+            " \n",
+            "In suprémæ nocte cœnæ, recúmbens cum frátribus, observáta lege plene, cibis in legálibus, cibum turbæ duodénæ se dat suis mánibus. \n",
+            " \n",
+            "Verbum caro, panem verum, Verbo carnem éfficit, fitque sanguis Christi merum, et, si sensus déficit, ad firmándum cor sincérum, sola fides súfficit. \n",
+            " \n",
+            "Tantum ergo Sa­cra­méntum venerémur cérnui; et antíquum documéntum novo cedat rítui; præstet fides sup­ple­méntum sénsuum deféctui. \n",
+            " \n",
+            "Genitóri, Genitóque laus et iubilátio, salus, honor, virtus quoque sit et benedíctio; procedénti ab utróque compar sit laudátio.  \n",
+            "Amen. \n"
+        ],
+            
+        "v1" : "Panem de cælo præstitísti eis. (T. P. Allelúia) \n",
+        "r1" : "Omne de­lec­ta­méntum in se habéntem. (T. P. Allelúia). \n",
+        
+        "oremos" : "OREMUS",
+        "oracion" : "Deus, qui nobis sub sacramento mirábili, passionis tuæ memóriam reliquísti: tríbue, quǽsumus, ita nos córporis et sánguinis tui sacra mystéria venerári, ut re­demp­tiónis tuæ fructum in nobis iúgiter sentiámus. Qui vivis et regnas in sǽcula sæculórum. Amén.\n"
+	},
+
+
+    
+    "oracion15":{	
+        "nombre" : "ORACIÓN PARA ANTES Y DESPUÉS DE LA EUCARISTÍA (Santo Tomás de Aquino)",
+
+		"cuerpo": [
+            "Dios eterno y todopoderoso, me acerco al sacramento de tu Hijo unigénito, nuestro Señor Jesucristo, como se acerca al médico el enfermo, el pecador a la fuente de misericordia, el ciego al resplandor de la luz eterna y el pobre e indigente al Dios del cielo y de la tierra. \n",
+            " \n",
+            "Muéstrame, Señor, tu bondad infinita v cura mis debilidades, borra las manchas de mis pecados, ilumina mi ceguera, enriquece mi indigencia y viste mi desnudez, a fin de que pueda yo recibir, en el Pan de los ángeles, al Rey de los reyes y Señor de los señores, con toda la humildad y la reverencia, el arrepentimiento y el amor, la pureza, la fe y el deseo que son necesarios para la salvación de mi alma. \n",
+            " \n",
+            "Haz, Señor, que no sólo reciba yo el sacramento del Cuerpo y la Sangre de tu Hijo, sino también la fuerza que otorga el Sacramento, y que con tal amor reciba yo el Cuerpo que tu Hijo, nuestro Señor Jesucristo, recibió de la Virgen María, que quede yo incorporado a su Cuerpo místico y pueda ser contado como uno de sus miembros. \n",
+            " \n",
+            "Concédeme, Padre lleno de amor, llegar a contemplar al término de esta vida, cara a cara y para siempre, a tu amado Hijo, Jesucristo, a quien voy a recibir hoy, oculto en este sacramento. \n",
+            " \n",
+            "Por el mismo Cristo nuestro Señor, que vive y reina por los siglos de los siglos. Amén. \n"
+        ]        
+    }
+
+
+}
